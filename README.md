@@ -1,4 +1,4 @@
-# First LEGO League Robotics
+# First LEGO®️ League (FLL) Robotics
 
 <tabcaption>
 
