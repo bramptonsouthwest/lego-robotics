@@ -35,3 +35,4 @@
 | INT-07      | Line Follow 3                        | INTERMEDIATE   |
 | INT-08      | Gyro 2                               | INTERMEDIATE   |
 | INT-09      | Gyro 3                               | INTERMEDIATE   |
+| INT-EXIT    | First LEGO®️ League (FLL) Mission    | INTERMEDIATE   |
