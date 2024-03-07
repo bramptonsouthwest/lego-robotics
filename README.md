@@ -53,12 +53,15 @@
 ## Basic Curriculum
 
 ### BAS-00
+#### Driving Base Build
 This module covers the basics of building a driving base for the robot, focusing on structural integrity, motor placement, and wheel configurations.
 
 ### BAS-01
+#### Perimeter Forward (FWD)
 Students learn to program the robot to move forward until it detects an obstacle using distance sensors, suitable for navigating controlled environments.
 
 ### BAS-02
+#### Black & White (B&W) Stop-n-Go
 This module teaches students to program the robot to stop and go based on detecting black and white surfaces, introducing them to simple line-following concepts.
 
 ### BAS-03
@@ -103,13 +106,13 @@ An exit module indicating completion of basic-level training, where students dem
 This tutorial module focuses on nested if statements, teaching students to create more complex conditional logic structures for advanced programming tasks.
 
 ### INT-B-T
-Students learn about steering mechanisms and how to implement them in their programs.
+Students learn about steering mechanisms and how to implement them in their programs to execute more precise and calculated turns.
 
 ### INT-00
 This module guides students through the construction of a plow attachment for their robot, emphasizing mechanical design and attachment building skills.
 
 ### INT-01
-Students explore the basics of sorting algorithms by programming their robot to sort objects based on predefined criteria, such as color or size.
+Students explore the basics of sorting algorithms by programming their robot to sort objects based on predefined criteria, such as color.
 
 ### INT-02
 Building upon Sorting Machine 1, this module challenges students to implement more sophisticated sorting algorithms to handle complex sorting tasks.
