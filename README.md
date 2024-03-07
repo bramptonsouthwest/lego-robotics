@@ -50,6 +50,8 @@
 | [ADV-XX](#ADV-XX)            | [Perimeter Forward (FWD)](3_advanced/ADV-XX_Perimeter-FWD.llsp3)                          | ADVANCED       |
 | [ADV-XX](#ADV-XX)            | [Perimeter Force](3_advanced/ADV-XX_Perimeter-Force.llsp3)                                | ADVANCED       |
 
+## Basic Curriculum
+
 ### BAS-00
 This module covers the basics of building a driving base for the robot, focusing on structural integrity, motor placement, and wheel configurations.
 
@@ -94,6 +96,8 @@ Students apply their programming skills to navigate through custom-made mazes wi
 
 ### BAS-EXIT
 An exit module indicating completion of basic-level training, where students demonstrate their understanding of crane sorting concepts through practical implementation.
+
+## Intermediate Curriculum
 
 ### INT-A-T
 This tutorial module focuses on nested if statements, teaching students to create more complex conditional logic structures for advanced programming tasks.
