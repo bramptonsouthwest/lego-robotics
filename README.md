@@ -103,7 +103,7 @@ An exit module indicating completion of basic-level training, where students dem
 This tutorial module focuses on nested if statements, teaching students to create more complex conditional logic structures for advanced programming tasks.
 
 ### INT-B-T
-Students learn about steering mechanisms and how to implement them in their scripts.
+Students learn about steering mechanisms and how to implement them in their programs.
 
 ### INT-00
 This module guides students through the construction of a plow attachment for their robot, emphasizing mechanical design and attachment building skills.
