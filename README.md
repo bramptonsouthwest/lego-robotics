@@ -35,4 +35,10 @@
 | INT-07      | Line Follow 3                        | INTERMEDIATE   |
 | INT-08      | Gyro 2                               | INTERMEDIATE   |
 | INT-09      | Gyro 3                               | INTERMEDIATE   |
-| INT-EXIT    | First LEGO®️ League (FLL) Mission    | INTERMEDIATE   |
+| INT-EXIT    | First LEGO®️ League (FLL) Mission     | INTERMEDIATE   |
+| ADV-XX      | Tutorial: Controlling Motors 1       | ADVANCED       |
+| ADV-XX      | Tutorial: Controlling Motors 2       | ADVANCED       |
+| ADV-XX      | Black & White (B&W) Stop-n-Go        | ADVANCED       |
+| ADV-XX      | Red Green Blue (RGB) Speed Variation | ADVANCED       |
+| ADV-XX      | Perimeter Forward (FWD)              | ADVANCED       |
+| ADV-XX      | Perimeter Force                      | ADVANCED       |
