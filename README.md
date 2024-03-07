@@ -44,7 +44,7 @@
 | [INT-EXIT](#INT-EXIT)        | [EXIT: First LEGO®️ League (FLL) Mission](2_intermediate/INT-EXIT_FLL-Mission.llsp3)     | INTERMEDIATE   |
 | [ADV-A-T](#ADV-A-T)          | [TUT: Introduction to MicroPython 1](3_advanced/ADV-A-T_Intro-to-MicroPython-1.llsp3)   | ADVANCED       |
 | [ADV-B-T](#ADV-B-T)          | [TUT: Introduction to MicroPython 2](3_advanced/ADV-B-T_Intro-to-MicroPython-2.llsp3)   | ADVANCED       |
-| [ADV-C-T](#ADV-C-T)          | [Tutorial: Controlling Motors](3_advanced/ADV-C-T_Controlling-Motors.llsp3)             | ADVANCED       |
+| [ADV-C-T](#ADV-C-T)          | [TUT: Controlling Motors](3_advanced/ADV-C-T_Controlling-Motors.llsp3)                  | ADVANCED       |
 | [ADV-XX](#ADV-XX)            | [Black & White (B&W) Stop-n-Go](3_advanced/ADV-XX_B&W-Stop-n-Go.llsp3)                  | ADVANCED       |
 | [ADV-XX](#ADV-XX)            | [Red Green Blue (RGB) Speed Variation](3_advanced/ADV-XX_RGB-Speed-Variation.llsp3)     | ADVANCED       |
 | [ADV-XX](#ADV-XX)            | [Perimeter Forward (FWD)](3_advanced/ADV-XX_Perimeter-FWD.llsp3)                        | ADVANCED       |
