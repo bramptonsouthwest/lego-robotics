@@ -187,106 +187,60 @@ An exit module indicating completion of intermediate-level training, where stude
 
 ### ADV-A-T
 #### TUT: Introduction to MicroPython 1
-
 This tutorial module introduces students to MicroPython programming for LEGO SPIKE Prime, covering basic syntax, variables, and control structures.
 
 ### ADV-B-T
 #### TUT: Introduction to MicroPython 2
-
 Building upon the previous tutorial, this module dives deeper into MicroPython concepts, including functions, modules, and advanced data types.
 
 ### ADV-C-T
 #### TUT: Controlling Motors
-
 Students learn advanced motor control techniques in SPIKE Prime, including PID control, synchronized movement, and complex motion profiles.
 
-### ADV-XX
-#### Advanced Motor Control with SPIKE Prime
-
-This module explores advanced techniques for controlling motors in SPIKE Prime, focusing on precise movement, speed control, and integration with sensors.
-
-### ADV-XX
-#### Advanced Sensor Integration with SPIKE Prime
-
+### ADV-D-T
+#### TUT: Sensor Integration
 Students learn to integrate various sensors with SPIKE Prime, including gyroscopes, color sensors, and distance sensors, for advanced robotic applications.
 
-### ADV-XX
-#### Custom Functions and Variables in SPIKE Prime
-
+### ADV-E-T
+#### TUT: Custom Functions and Variables
 Students learn to create custom functions and variables in SPIKE Prime to streamline their code and improve code readability and maintainability.
 
-### ADV-XX
-#### Advanced Loops and Logic Structures in SPIKE Prime
-
+### ADV-F-T
+#### TUT: Loops and Logic Structures
 This module covers advanced loop structures and logical operations in SPIKE Prime, enabling students to write more efficient and complex programs.
 
-### ADV-XX
-#### SPIKE Prime Robotics Challenges: Part 1
+### ADV-01
+#### Black & White (B&W) Stop-n-Go
+This module challenges students to program SPIKE Prime to stop and go based on detecting black and white surfaces, refining their line-following skills.
 
+### ADV-02
+#### Red Green Blue (RGB) Speed Variation
+Students explore programming SPIKE Prime to adjust its speed based on detecting colors, enhancing their understanding of sensor-based control systems.
+
+### ADV-03
+#### Perimeter Forward (FWD)
+Students learn to program SPIKE Prime to move forward until it detects an obstacle, suitable for navigating controlled environments.
+
+### ADV-04
+#### Perimeter Force
+Students program SPIKE Prime to move until it encounters a button press, simulating interactions with physical objects in its environment.
+
+### ADV-05
+#### SPIKE Prime Robotics Challenges: Part 1
 Students engage in challenging robotics tasks and missions designed to test their problem-solving skills and creativity using SPIKE Prime.
 
-### ADV-XX
+### ADV-06
 #### SPIKE Prime Robotics Challenges: Part 2
-
 Continuing from Part 1, this module offers more complex challenges and missions for students to tackle, further enhancing their robotics capabilities.
 
-### ADV-XX
+### ADV-07
 #### SPIKE Prime Robotics Challenges: Part 3
-
 The final installment of the robotics challenges series, providing students with the most advanced and intricate missions to showcase their skills.
 
-### ADV-XX
-#### Data Logging and Analysis with SPIKE Prime
-
+### ADV-08
+#### Data Logging and Analysis
 Students learn to collect and analyze data from sensors in SPIKE Prime, enabling them to make informed decisions and optimizations in their robotic projects.
 
-### ADV-XX
+### ADV-09
 #### Wireless Communication and Remote Control with SPIKE Prime
-
 This module explores wireless communication protocols and methods for remote controlling SPIKE Prime robots, enabling collaborative and interactive projects.
-
-### ADV-XX
-#### SPIKE Prime Projects: Creative Design and Implementation
-
-Students work on open-ended projects to design, build, and program innovative SPIKE Prime robots, fostering creativity and innovation in robotics.
-
-### ADV-XX
-#### SPIKE Prime Advanced Programming Techniques
-
-This module covers advanced programming techniques in SPIKE Prime, including multi-threading, error handling, and optimization strategies for efficient code.
-
-### ADV-XX
-#### SPIKE Prime AI and Machine Learning Applications
-
-Students explore the applications of artificial intelligence and machine learning in SPIKE Prime robotics, including image recognition and decision-making algorithms.
-
-### ADV-XX
-#### SPIKE Prime Autonomous Navigation Strategies
-
-This module focuses on strategies and algorithms for autonomous navigation in SPIKE Prime robots, enabling them to navigate complex environments and tasks.
-
-### ADV-XX
-#### SPIKE Prime Robotic Vision and Object Recognition
-
-Students learn about computer vision techniques and object recognition algorithms for SPIKE Prime robots, enabling them to interact with their surroundings intelligently.
-
-### ADV-XX
-#### SPIKE Prime Robotics in Industry and Research
-
-This module explores real-world applications of SPIKE Prime robotics in various industries and research fields, highlighting current trends and innovations.
-
-### ADV-XX
-#### SPIKE Prime Robotics Competition Strategies
-
-Students learn strategies and tactics for competing in robotics competitions with SPIKE Prime, including optimization, teamwork, and competition dynamics.
-
-### ADV-XX
-#### SPIKE Prime Robotics Innovation Workshop
-
-This workshop-style module encourages students to brainstorm, design, and prototype innovative robotics solutions using SPIKE Prime, fostering creativity and entrepreneurship.
-
-### ADV-XX
-#### SPIKE Prime Capstone Project: Real-world Application Development
-
-In this culminating project, students apply their skills and knowledge to develop a real-world application using SPIKE Prime robotics, addressing a specific problem or need.
-
