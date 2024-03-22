@@ -45,6 +45,7 @@
 | [ADV-A-T](#ADV-A-T)          | [TUT: Introduction to MicroPython 1](3_advanced/ADV-A-T_Intro-to-MicroPython-1.llsp3)   | ADVANCED       |
 | [ADV-B-T](#ADV-B-T)          | [TUT: Introduction to MicroPython 2](3_advanced/ADV-B-T_Intro-to-MicroPython-2.llsp3)   | ADVANCED       |
 | [ADV-C-T](#ADV-C-T)          | [TUT: Controlling Motors](3_advanced/ADV-C-T_Controlling-Motors.llsp3)                  | ADVANCED       |
+| [ADV-D-T](#ADV-D-T)          | [TUT: Sensor Integration](3_advanced/ADV-D-T_Sensor-Integration.llsp3)                  | ADVANCED       |
 | [ADV-XX](#ADV-XX)            | [Black & White (B&W) Stop-n-Go](3_advanced/ADV-XX_B&W-Stop-n-Go.llsp3)                  | ADVANCED       |
 | [ADV-XX](#ADV-XX)            | [Red Green Blue (RGB) Speed Variation](3_advanced/ADV-XX_RGB-Speed-Variation.llsp3)     | ADVANCED       |
 | [ADV-XX](#ADV-XX)            | [Perimeter Forward (FWD)](3_advanced/ADV-XX_Perimeter-FWD.llsp3)                        | ADVANCED       |
@@ -86,7 +87,7 @@ Students learn to program the robot to navigate within a constrained space, focu
 
 ### BAS-07
 #### ESCAPE OF THE WALLS 2
-Building upon the previous module, students further refine their programming skills to navigate more complex enclosed spaces with varying obstacles.
+Building upon the previous module, students further refine their programming skills to navigate more complex enclosed spaces with varying decision patterns.
 
 ### BAS-08
 #### MAZE 1
