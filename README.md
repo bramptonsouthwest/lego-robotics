@@ -46,6 +46,8 @@
 | [ADV-B-T](#ADV-B-T)          | [TUT: Introduction to MicroPython 2](3_advanced/ADV-B-T_Intro-to-MicroPython-2.llsp3)   | ADVANCED       |
 | [ADV-C-T](#ADV-C-T)          | [TUT: Controlling Motors](3_advanced/ADV-C-T_Controlling-Motors.llsp3)                  | ADVANCED       |
 | [ADV-D-T](#ADV-D-T)          | [TUT: Sensor Integration](3_advanced/ADV-D-T_Sensor-Integration.llsp3)                  | ADVANCED       |
+| [ADV-E-T](#ADV-E-T)          | [TUT: Custom Functions and Variables](3_advanced/ADV-E-T_Custom-Functions-and-Variables.llsp3)                  | ADVANCED       |
+| [ADV-F-T](#ADV-F-T)          | [TUT: Loops and Logic Structures](3_advanced/ADV-F-T_Loops-and-Logic-Structures.llsp3)                  | ADVANCED       |
 | [ADV-XX](#ADV-XX)            | [Black & White (B&W) Stop-n-Go](3_advanced/ADV-XX_B&W-Stop-n-Go.llsp3)                  | ADVANCED       |
 | [ADV-XX](#ADV-XX)            | [Red Green Blue (RGB) Speed Variation](3_advanced/ADV-XX_RGB-Speed-Variation.llsp3)     | ADVANCED       |
 | [ADV-XX](#ADV-XX)            | [Perimeter Forward (FWD)](3_advanced/ADV-XX_Perimeter-FWD.llsp3)                        | ADVANCED       |
