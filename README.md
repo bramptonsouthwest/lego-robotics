@@ -35,8 +35,8 @@
 | [INT-04](#INT-04)            | [Gyro 1](2_intermediate/INT-04_Gyroscope-1.llsp3)                                       | INTERMEDIATE   |
 | [INT-05](#INT-05)            | [Line Follow 2](2_intermediate/INT-05_Line-Follow-2.llsp3)                              | INTERMEDIATE   |
 | [INT-06](#INT-06)            | [Line Follow 3](2_intermediate/INT-06_Line-Follow-3.llsp3)                              | INTERMEDIATE   |
-| [INT-07](#INT-07)            | [Gyro 2](2_intermediate/INT-07_Gyro-2.llsp3)                                            | INTERMEDIATE   |
-| [INT-08](#INT-08)            | [Gyro 3](2_intermediate/INT-08_Gyro-3.llsp3)                                            | INTERMEDIATE   |
+| [INT-07](#INT-07)            | [Gyro 2](2_intermediate/INT-07_Gyroscope-2.llsp3)                                            | INTERMEDIATE   |
+| [INT-08](#INT-08)            | [Gyro 3](2_intermediate/INT-08_Gyroscope-3.llsp3)                                            | INTERMEDIATE   |
 | [INT-09](#INT-09)            | [Training Camp 1](2_intermediate/INT-09_Training-Camp-1.llsp3)                          | INTERMEDIATE   |
 | [INT-10](#INT-10)            | [Training Camp 2](2_intermediate/INT-10_Training-Camp-2.llsp3)                          | INTERMEDIATE   |
 | [INT-11](#INT-11)            | [Training Camp 3](2_intermediate/INT-11_Training-Camp-3.llsp3)                          | INTERMEDIATE   |
