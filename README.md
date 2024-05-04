@@ -11,6 +11,7 @@
 | module_ID                    | module_name                                                                             | training_level |
 |:-----------------------------|:----------------------------------------------------------------------------------------|:---------------|
 | [BAS-00](#BAS-00)            | [Driving Base Build](1_basic/BAS-00_Driving-Base-Build.pdf)                             | BASIC          |
+| [BAS-01](#BAS-XX)            | [Perimeter Forward (FWD)](1_basic/BAS-XX_Square.llsp3)                           | BASIC          |
 | [BAS-01](#BAS-01)            | [Perimeter Forward (FWD)](1_basic/BAS-01_Perimeter-FWD.llsp3)                           | BASIC          |
 | [BAS-02](#BAS-02)            | [Black & White (B&W) Stop-n-Go](1_basic/BAS-02_B&W-Stop-n-Go.llsp3)                     | BASIC          |
 | [BAS-03](#BAS-03)            | [Red Green Blue (RGB) Speed Variation](1_basic/BAS-03_RGB-Speed-Variation.llsp3)        | BASIC          |
