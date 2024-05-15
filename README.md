@@ -11,20 +11,20 @@
 | module_ID                    | module_name                                                                             | training_level |
 |:-----------------------------|:----------------------------------------------------------------------------------------|:---------------|
 | [BAS-00](#BAS-00)            | [Driving Base Build](1_basic/BAS-00_Driving-Base-Build.pdf)                             | BASIC          |
-| [BAS-01](#BAS-XX)            | [Perimeter Forward (FWD)](1_basic/BAS-XX_Square.llsp3)                           | BASIC          |
-| [BAS-01](#BAS-01)            | [Perimeter Forward (FWD)](1_basic/BAS-01_Perimeter-FWD.llsp3)                           | BASIC          |
-| [BAS-02](#BAS-02)            | [Black & White (B&W) Stop-n-Go](1_basic/BAS-02_B&W-Stop-n-Go.llsp3)                     | BASIC          |
-| [BAS-03](#BAS-03)            | [Red Green Blue (RGB) Speed Variation](1_basic/BAS-03_RGB-Speed-Variation.llsp3)        | BASIC          |
-| [BAS-04](#BAS-04)            | [Perimeter Force](1_basic/BAS-04_Perimeter-Force.llsp3)                                 | BASIC          |
-| [BAS-05](#BAS-05)            | [Parallel Park 1](1_basic/BAS-05_Parallel-Park-1.llsp3)                                 | BASIC          |
+| [BAS-01](#BAS-XX)            | [Perimeter Square](1_basic/BAS-XX_Square.llsp3)                           | BASIC          |
+| [BAS-02](#BAS-01)            | [Perimeter Forward (FWD)](1_basic/BAS-01_Perimeter-FWD.llsp3)                           | BASIC          |
+| [BAS-03](#BAS-02)            | [Black & White (B&W) Stop-n-Go](1_basic/BAS-02_B&W-Stop-n-Go.llsp3)                     | BASIC          |
+| [BAS-04](#BAS-03)            | [Red Green Blue (RGB) Speed Variation](1_basic/BAS-03_RGB-Speed-Variation.llsp3)        | BASIC          |
+| [BAS-05](#BAS-04)            | [Perimeter Force](1_basic/BAS-04_Perimeter-Force.llsp3)                                 | BASIC          |
+| [BAS-06](#BAS-05)            | [Parallel Park 1](1_basic/BAS-05_Parallel-Park-1.llsp3)                                 | BASIC          |
 | [BAS-A-T](#BAS-A-T)          | [TUT: If Statements](1_intermediate/BAS-A-T_If-Then-Statements.llsp3)                   | BASIC          |
-| [BAS-06](#BAS-06)            | [Escape of the Walls 1](1_basic/BAS-06_Escape-of-the-Walls-1.llsp3)                     | BASIC          |
-| [BAS-07](#BAS-07)            | [Escape of the Walls 2](1_basic/BAS-07_Escape-of-the-Walls-2.llsp3)                     | BASIC          |
-| [BAS-08](#BAS-08)            | [Maze 1](1_basic/BAS-08_Maze-1.llsp3)                                                   | BASIC          |
-| [BAS-09](#BAS-09)            | [Parallel Park 2](1_basic/BAS-09_Parallel-Park-2.llsp3)                                 | BASIC          |
-| [BAS-10](#BAS-10)            | [Parallel Park 3](1_basic/BAS-10_Parallel-Park-3.llsp3)                                 | BASIC          |
-| [BAS-11](#BAS-11)            | [Maze 2](1_basic/BAS-11_Maze-2.llsp3)                                                   | BASIC          |
-| [BAS-12](#BAS-12)            | [Freeform Maze](1_basic/BAS-12_Freeform-Maze.llsp3)                                     | BASIC          |
+| [BAS-07](#BAS-06)            | [Escape of the Walls 1](1_basic/BAS-06_Escape-of-the-Walls-1.llsp3)                     | BASIC          |
+| [BAS-08](#BAS-07)            | [Escape of the Walls 2](1_basic/BAS-07_Escape-of-the-Walls-2.llsp3)                     | BASIC          |
+| [BAS-09](#BAS-08)            | [Maze 1](1_basic/BAS-08_Maze-1.llsp3)                                                   | BASIC          |
+| [BAS-10](#BAS-09)            | [Parallel Park 2](1_basic/BAS-09_Parallel-Park-2.llsp3)                                 | BASIC          |
+| [BAS-11](#BAS-10)            | [Parallel Park 3](1_basic/BAS-10_Parallel-Park-3.llsp3)                                 | BASIC          |
+| [BAS-12](#BAS-11)            | [Maze 2](1_basic/BAS-11_Maze-2.llsp3)                                                   | BASIC          |
+| [BAS-13](#BAS-12)            | [Freeform Maze](1_basic/BAS-12_Freeform-Maze.llsp3)                                     | BASIC          |
 | [BAS-EXIT](#BAS-EXIT)        | [EXIT: Crane Sort](2_intermediate/BAS-EXIT_Crane-Sort.llsp3)                            | BASIC          |
 | [INT-A-T](#INT-A-T)          | [TUT: Nested If Statements](2_intermediate/INT-A-T_Nested-If-Statements.llsp3)          | INTERMEDIATE   |
 | [INT-B-T](#INT-B-T)          | [TUT: Steering](2_intermediate/INT-B-T_Steering.llsp3)                                  | INTERMEDIATE   |
