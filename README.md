@@ -61,6 +61,10 @@
 This module covers the basics of building a driving base for the robot, focusing on structural integrity, motor placement, and wheel configurations.
 
 ### BAS-01
+#### PERIMETER SQUARE
+Students learn to program the robot to move in the shape of a square using <i>Motor</i> blocks.
+
+### BAS-01
 #### PERIMETER FORWARD (FWD)
 Students learn to program the robot to move forward until it detects an obstacle using distance sensors, suitable for navigating controlled environments.
 
