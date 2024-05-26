@@ -58,7 +58,7 @@
 
 ### BAS-00
 #### DRIVING BASE BUILD
-This module covers the basics of building a driving base for the robot, focusing on structural integrity, motor placement, and wheel configurations.
+This module covers the basics of building a LEGO driving base, focusing on structural integrity, motor placement, and wheel configurations.
 
 ### BAS-01
 #### PERIMETER FORWARD (FWD)
@@ -70,15 +70,15 @@ This module teaches students to program the robot to stop and go based on detect
 
 ### BAS-03
 #### RED GREEN BLUE (RGB) SPEED VARIATION
-Students explore programming the robot to adjust its speed based on detecting colors, enhancing their understanding of sensor-based control systems.
+Students explore programming the robot to adjust its speed based on detecting red-, green-, and blue-colored lines, enhancing their understanding of sensor-based control systems.
 
 ### BAS-04
 #### PERIMETER FORCE
-Students learn to program the robot to move until it encounters a force, simulating interactions with physical objects in its environment.
+Students learn to program the robot to move until it encounters a wall, simulating interactions with physical objects in its environment. After bumping into a wall, the robot needs to precicely reverse a fixed distance, perform a pivoted right turn before proceeding to the next wall.
 
 ### BAS-05
 #### PARALLEL PARK 1
-This module introduces the concept of parallel parking, teaching students how to program the robot to maneuver into tight spaces using precise movements.
+This module introduces the concept of parallel parking, teaching students how to program the robot to maneuver into tight spaces (marked by colored lines) using precise movements.
 
 ### BAS-A-T
 #### TUT: IF STATEMENTS
