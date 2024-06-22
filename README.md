@@ -63,7 +63,7 @@
 | [ADV-12](#ADV-11)            | [Maze 2](3_advanced/BEG-11_Maze-2.llsp3)                                                        | ADVANCED       |
 | [ADV-13](#ADV-12)            | [Freeform Maze](3_advanced/BEG-12_Freeform-Maze.llsp3)                                          | ADVANCED       |
 
-## Basic Curriculum
+## Beginner Curriculum
 
 ### BEG-00
 #### DRIVING BASE BUILD
