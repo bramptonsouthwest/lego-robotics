@@ -10,22 +10,22 @@
 
 | module_ID                    | module_name                                                                                     | training_level |
 |:-----------------------------|:------------------------------------------------------------------------------------------------|:---------------|
-| [BAS-00](#BAS-00)            | [Driving Base Build](1_basic/BAS-00_Driving-Base-Build.pdf)                                     | BASIC          |
-| [BAS-01](#BAS-01)            | [Perimeter Square](1_basic/BAS-XX_Perimeter-Square.llsp3)                                       | BASIC          |
-| [BAS-02](#BAS-02)            | [Perimeter Forward (FWD)](1_basic/BAS-01_Perimeter-FWD.llsp3)                                   | BASIC          |
-| [BAS-03](#BAS-03)            | [Black & White (B&W) Stop-n-Go](1_basic/BAS-02_B&W-Stop-n-Go.llsp3)                             | BASIC          |
-| [BAS-04](#BAS-04)            | [Red Green Blue (RGB) Speed Variation](1_basic/BAS-03_RGB-Speed-Variation.llsp3)                | BASIC          |
-| [BAS-05](#BAS-05)            | [Perimeter Force](1_basic/BAS-04_Perimeter-Force.llsp3)                                         | BASIC          |
-| [BAS-06](#BAS-06)            | [Parallel Park 1](1_basic/BAS-05_Parallel-Park-1.llsp3)                                         | BASIC          |
-| [BAS-A-T](#BAS-A-T)          | [TUT: If Statements](1_intermediate/BAS-A-T_If-Then-Statements.llsp3)                           | BASIC          |
-| [BAS-07](#BAS-07)            | [Escape of the Walls 1](1_basic/BAS-06_Escape-of-the-Walls-1.llsp3)                             | BASIC          |
-| [BAS-08](#BAS-08)            | [Escape of the Walls 2](1_basic/BAS-07_Escape-of-the-Walls-2.llsp3)                             | BASIC          |
-| [BAS-09](#BAS-09)            | [Maze 1](1_basic/BAS-08_Maze-1.llsp3)                                                           | BASIC          |
-| [BAS-10](#BAS-10)            | [Parallel Park 2](1_basic/BAS-09_Parallel-Park-2.llsp3)                                         | BASIC          |
-| [BAS-11](#BAS-11)            | [Parallel Park 3](1_basic/BAS-10_Parallel-Park-3.llsp3)                                         | BASIC          |
-| [BAS-12](#BAS-12)            | [Maze 2](1_basic/BAS-11_Maze-2.llsp3)                                                           | BASIC          |
-| [BAS-13](#BAS-13)            | [Freeform Maze](1_basic/BAS-12_Freeform-Maze.llsp3)                                             | BASIC          |
-| [BAS-EXIT](#BAS-EXIT)        | [EXIT: Crane Sort](2_intermediate/BAS-EXIT_Crane-Sort.llsp3)                                    | BASIC          |
+| [BEG-00](#BEG-00)            | [Driving Base Build](1_basic/BEG-00_Driving-Base-Build.pdf)                                     | BEGINNER          |
+| [BEG-01](#BEG-01)            | [Perimeter Square](1_basic/BEG-XX_Perimeter-Square.llsp3)                                       | BEGINNER          |
+| [BEG-02](#BEG-02)            | [Perimeter Forward (FWD)](1_basic/BEG-01_Perimeter-FWD.llsp3)                                   | BEGINNER          |
+| [BEG-03](#BEG-03)            | [Black & White (B&W) Stop-n-Go](1_basic/BEG-02_B&W-Stop-n-Go.llsp3)                             | BEGINNER          |
+| [BEG-04](#BEG-04)            | [Red Green Blue (RGB) Speed Variation](1_basic/BEG-03_RGB-Speed-Variation.llsp3)                | BEGINNER          |
+| [BEG-05](#BEG-05)            | [Perimeter Force](1_basic/BEG-04_Perimeter-Force.llsp3)                                         | BEGINNER          |
+| [BEG-06](#BEG-06)            | [Parallel Park 1](1_basic/BEG-05_Parallel-Park-1.llsp3)                                         | BEGINNER          |
+| [BEG-A-T](#BEG-A-T)          | [TUT: If Statements](1_intermediate/BEG-A-T_If-Then-Statements.llsp3)                           | BEGINNER          |
+| [BEG-07](#BEG-07)            | [Escape of the Walls 1](1_basic/BEG-06_Escape-of-the-Walls-1.llsp3)                             | BEGINNER          |
+| [BEG-08](#BEG-08)            | [Escape of the Walls 2](1_basic/BEG-07_Escape-of-the-Walls-2.llsp3)                             | BEGINNER          |
+| [BEG-09](#BEG-09)            | [Maze 1](1_basic/BEG-08_Maze-1.llsp3)                                                           | BEGINNER          |
+| [BEG-10](#BEG-10)            | [Parallel Park 2](1_basic/BEG-09_Parallel-Park-2.llsp3)                                         | BEGINNER          |
+| [BEG-11](#BEG-11)            | [Parallel Park 3](1_basic/BEG-10_Parallel-Park-3.llsp3)                                         | BEGINNER          |
+| [BEG-12](#BEG-12)            | [Maze 2](1_basic/BEG-11_Maze-2.llsp3)                                                           | BEGINNER          |
+| [BEG-13](#BEG-13)            | [Freeform Maze](1_basic/BEG-12_Freeform-Maze.llsp3)                                             | BEGINNER          |
+| [BEG-EXIT](#BEG-EXIT)        | [EXIT: Crane Sort](2_intermediate/BEG-EXIT_Crane-Sort.llsp3)                                    | BEGINNER          |
 | [INT-A-T](#INT-A-T)          | [TUT: Nested If Statements](2_intermediate/INT-A-T_Nested-If-Statements.llsp3)                  | INTERMEDIATE   |
 | [INT-B-T](#INT-B-T)          | [TUT: Steering](2_intermediate/INT-B-T_Steering.llsp3)                                          | INTERMEDIATE   |
 | [INT-00](#INT-00)            | [Plow Build](2_intermediate/INT-00_Plow-Build.pdf)                                              | INTERMEDIATE   |
@@ -54,78 +54,78 @@
 | [ADV-03](#ADV-02)            | [Black & White (B&W) Stop-n-Go](3_advanced/ADV-XX_B&W-Stop-n-Go.llsp3)                          | ADVANCED       |
 | [ADV-04](#ADV-03)            | [Red Green Blue (RGB) Speed Variation](3_advanced/ADV-XX_RGB-Speed-Variation.llsp3)             | ADVANCED       |
 | [ADV-05](#ADV-04)            | [Perimeter Force](3_advanced/ADV-XX_Perimeter-Force.llsp3)                                      | ADVANCED       |
-| [ADV-06](#ADV-05)            | [Parallel Park 1](3_advanced/BAS-05_Parallel-Park-1.llsp3)                                      | ADVANCED       |
-| [ADV-07](#ADV-06)            | [Escape of the Walls 1](3_advanced/BAS-06_Escape-of-the-Walls-1.llsp3)                          | ADVANCED       |
-| [ADV-08](#ADV-07)            | [Escape of the Walls 2](3_advanced/BAS-07_Escape-of-the-Walls-2.llsp3)                          | ADVANCED       |
-| [ADV-09](#ADV-08)            | [Maze 1](3_advanced/BAS-08_Maze-1.llsp3)                                                        | ADVANCED       |
-| [ADV-10](#ADV-09)            | [Parallel Park 2](3_advanced/BAS-09_Parallel-Park-2.llsp3)                                      | ADVANCED       |
-| [ADV-11](#ADV-10)            | [Parallel Park 3](3_advanced/BAS-10_Parallel-Park-3.llsp3)                                      | ADVANCED       |
-| [ADV-12](#ADV-11)            | [Maze 2](3_advanced/BAS-11_Maze-2.llsp3)                                                        | ADVANCED       |
-| [ADV-13](#ADV-12)            | [Freeform Maze](3_advanced/BAS-12_Freeform-Maze.llsp3)                                          | ADVANCED       |
+| [ADV-06](#ADV-05)            | [Parallel Park 1](3_advanced/BEG-05_Parallel-Park-1.llsp3)                                      | ADVANCED       |
+| [ADV-07](#ADV-06)            | [Escape of the Walls 1](3_advanced/BEG-06_Escape-of-the-Walls-1.llsp3)                          | ADVANCED       |
+| [ADV-08](#ADV-07)            | [Escape of the Walls 2](3_advanced/BEG-07_Escape-of-the-Walls-2.llsp3)                          | ADVANCED       |
+| [ADV-09](#ADV-08)            | [Maze 1](3_advanced/BEG-08_Maze-1.llsp3)                                                        | ADVANCED       |
+| [ADV-10](#ADV-09)            | [Parallel Park 2](3_advanced/BEG-09_Parallel-Park-2.llsp3)                                      | ADVANCED       |
+| [ADV-11](#ADV-10)            | [Parallel Park 3](3_advanced/BEG-10_Parallel-Park-3.llsp3)                                      | ADVANCED       |
+| [ADV-12](#ADV-11)            | [Maze 2](3_advanced/BEG-11_Maze-2.llsp3)                                                        | ADVANCED       |
+| [ADV-13](#ADV-12)            | [Freeform Maze](3_advanced/BEG-12_Freeform-Maze.llsp3)                                          | ADVANCED       |
 
 ## Basic Curriculum
 
-### BAS-00
+### BEG-00
 #### DRIVING BASE BUILD
 This module covers the basics of building a driving base for the robot, focusing on structural integrity, motor placement, and wheel configurations.
 
-### BAS-01
+### BEG-01
 #### PERIMETER SQUARE
 Students learn to program the robot to move in the shape of a square using <i>Motor</i> blocks.
 
-### BAS-02
+### BEG-02
 #### PERIMETER FORWARD (FWD)
 Students learn to program the robot to move forward until it detects an obstacle using distance sensors, suitable for navigating controlled environments.
 
-### BAS-03
+### BEG-03
 #### BLACK & WHITE (B&W) STOP-N-GO
 This module teaches students to program the robot to stop and go based on detecting black and white surfaces, introducing them to simple line-following concepts.
 
-### BAS-04
+### BEG-04
 #### RED GREEN BLUE (RGB) SPEED VARIATION
 Students explore programming the robot to adjust its speed based on detecting colors, enhancing their understanding of sensor-based control systems.
 
-### BAS-05
+### BEG-05
 #### PERIMETER FORCE
 Students learn to program the robot to move until it encounters a force, simulating interactions with physical objects in its environment.
 
-### BAS-06
+### BEG-06
 #### PARALLEL PARK 1
 This module introduces the concept of parallel parking, teaching students how to program the robot to maneuver into tight spaces using precise movements.
 
-### BAS-A-T
+### BEG-A-T
 #### TUT: IF STATEMENTS
 A tutorial module focusing on if statements, providing foundational knowledge essential for conditional programming.
 
-### BAS-07
+### BEG-07
 #### ESCAPE OF THE WALLS 1
 Students learn to program the robot to navigate within a constrained space, focusing on escaping from enclosed areas using sensor-based decision-making.
 
-### BAS-08
+### BEG-08
 #### ESCAPE OF THE WALLS 2
 Building upon the previous module, students further refine their programming skills to navigate more complex enclosed spaces with varying decision patterns.
 
-### BAS-09
+### BEG-09
 #### MAZE 1
 Introduction to maze-solving algorithms, where students program the robot to navigate through predefined mazes using distance sensors.
 
-### BAS-10
+### BEG-10
 #### PARALLEL PARK 2
 An advanced parallel parking module, challenging students to program the robot to navigate into even tighter spaces with greater precision.
 
-### BAS-11
+### BEG-11
 #### PARALLEL PARK 3
 Continuing from the previous module, students tackle more complex parallel parking scenarios, refining their programming skills and spatial awareness.
 
-### BAS-12
+### BEG-12
 #### MAZE 2
 Building upon the Maze 1 module, students explore more intricate maze structures, honing their algorithmic problem-solving abilities.
 
-### BAS-13
+### BEG-13
 #### FREEFORM MAZE
 Students apply their programming skills to navigate through custom-made mazes with irregular shapes and obstacles, enhancing their adaptability and problem-solving skills.
 
-### BAS-EXIT
+### BEG-EXIT
 #### EXIT: CRANE SORT
 An exit module indicating completion of basic-level training, where students demonstrate their understanding of crane sorting concepts through practical implementation.
 
