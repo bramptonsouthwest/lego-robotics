@@ -62,6 +62,7 @@
 | [ADV-11](#ADV-10)            | [Parallel Park 3](3_advanced/BEG-10_Parallel-Park-3.llsp3)                                      | ADVANCED       |
 | [ADV-12](#ADV-11)            | [Maze 2](3_advanced/BEG-11_Maze-2.llsp3)                                                        | ADVANCED       |
 | [ADV-13](#ADV-12)            | [Freeform Maze](3_advanced/BEG-12_Freeform-Maze.llsp3)                                          | ADVANCED       |
+| [ADV-EXIT](#ADV-EXIT)        | [EXIT: Crane Sort](3_advanced/ADV-EXIT_Crane-Sort.llsp3)                                        | ADVANCED       |
 
 ## Beginner Curriculum
 
@@ -202,27 +203,27 @@ An exit module indicating completion of intermediate-level training, where stude
 ## Advanced Curriculum (Tentative)
 
 ### ADV-A-T
-#### TUT: Introduction to MicroPython 1
+#### TUT: INTRODUCTION TO MICROPYTHON 1
 This tutorial module introduces students to MicroPython programming for LEGO SPIKE Prime, covering basic syntax, variables, and control structures.
 
 ### ADV-B-T
-#### TUT: Introduction to MicroPython 2
+#### TUT: INTRODUCTION TO MICROPYTHON 2
 Building upon the previous tutorial, this module dives deeper into MicroPython concepts, including functions, modules, and advanced data types.
 
 ### ADV-C-T
-#### TUT: Controlling Motors
+#### TUT: CONTROLLING MOTORS
 Students learn advanced motor control techniques in SPIKE Prime, including PID control, synchronized movement, and complex motion profiles.
 
 ### ADV-D-T
-#### TUT: Sensor Integration
+#### TUT: SENSOR INTEGRATION
 Students learn to integrate various sensors with SPIKE Prime, including gyroscopes, color sensors, and distance sensors, for advanced robotic applications.
 
 ### ADV-E-T
-#### TUT: Custom Functions and Variables
+#### TUT: CUSTOM FUNCTIONS AND VARIABLES
 Students learn to create custom functions and variables in SPIKE Prime to streamline their code and improve code readability and maintainability.
 
 ### ADV-F-T
-#### TUT: Loops and Logic Structures
+#### TUT: LOOPS AND LOGIC STRUCTURES
 This module covers advanced loop structures and logical operations in SPIKE Prime, enabling students to write more efficient and complex programs.
 
 ### ADV-01
@@ -282,21 +283,21 @@ Students apply their programming skills to navigate through custom-made mazes wi
 An exit module indicating completion of basic-level training, where students demonstrate their understanding of crane sorting concepts through practical implementation.
 
 ### ADV-14
-#### SPIKE Prime Robotics Challenges: Part 1
+#### SPIKE PRIME ROBOTICS CHALLENGES: PART 1
 Students engage in challenging robotics tasks and missions designed to test their problem-solving skills and creativity using SPIKE Prime.
 
 ### ADV-15
-#### SPIKE Prime Robotics Challenges: Part 2
+#### SPIKE PRIME ROBOTICS CHALLENGES: PART 2
 Continuing from Part 1, this module offers more complex challenges and missions for students to tackle, further enhancing their robotics capabilities.
 
 ### ADV-16
-#### SPIKE Prime Robotics Challenges: Part 3
+#### SPIKE PRIME ROBOTICS CHALLENGES: PART 3
 The final installment of the robotics challenges series, providing students with the most advanced and intricate missions to showcase their skills.
 
 ### ADV-17
-#### Data Logging and Analysis
+#### DATA LOGGING AND ANALYSIS
 Students learn to collect and analyze data from sensors in SPIKE Prime, enabling them to make informed decisions and optimizations in their robotic projects.
 
 ### ADV-18
-#### Wireless Communication and Remote Control with SPIKE Prime
+#### WIRELESS COMMUNICATION AND REMOTE CONTROL
 This module explores wireless communication protocols and methods for remote controlling SPIKE Prime robots, enabling collaborative and interactive projects.
