@@ -73,23 +73,23 @@ This module covers the basics of building a driving base for the robot, focusing
 #### PERIMETER SQUARE
 Students learn to program the robot to move in the shape of a square using <i>Motor</i> blocks.
 
-### BAS-01
+### BAS-02
 #### PERIMETER FORWARD (FWD)
 Students learn to program the robot to move forward until it detects an obstacle using distance sensors, suitable for navigating controlled environments.
 
-### BAS-02
+### BAS-03
 #### BLACK & WHITE (B&W) STOP-N-GO
 This module teaches students to program the robot to stop and go based on detecting black and white surfaces, introducing them to simple line-following concepts.
 
-### BAS-03
+### BAS-04
 #### RED GREEN BLUE (RGB) SPEED VARIATION
 Students explore programming the robot to adjust its speed based on detecting colors, enhancing their understanding of sensor-based control systems.
 
-### BAS-04
+### BAS-05
 #### PERIMETER FORCE
 Students learn to program the robot to move until it encounters a force, simulating interactions with physical objects in its environment.
 
-### BAS-05
+### BAS-06
 #### PARALLEL PARK 1
 This module introduces the concept of parallel parking, teaching students how to program the robot to maneuver into tight spaces using precise movements.
 
@@ -97,38 +97,37 @@ This module introduces the concept of parallel parking, teaching students how to
 #### TUT: IF STATEMENTS
 A tutorial module focusing on if statements, providing foundational knowledge essential for conditional programming.
 
-### BAS-06
+### BAS-07
 #### ESCAPE OF THE WALLS 1
 Students learn to program the robot to navigate within a constrained space, focusing on escaping from enclosed areas using sensor-based decision-making.
 
-### BAS-07
+### BAS-08
 #### ESCAPE OF THE WALLS 2
 Building upon the previous module, students further refine their programming skills to navigate more complex enclosed spaces with varying decision patterns.
 
-### BAS-08
+### BAS-09
 #### MAZE 1
 Introduction to maze-solving algorithms, where students program the robot to navigate through predefined mazes using distance sensors.
 
-### BAS-09
+### BAS-10
 #### PARALLEL PARK 2
 An advanced parallel parking module, challenging students to program the robot to navigate into even tighter spaces with greater precision.
 
-### BAS-10
+### BAS-11
 #### PARALLEL PARK 3
 Continuing from the previous module, students tackle more complex parallel parking scenarios, refining their programming skills and spatial awareness.
 
-### BAS-11
+### BAS-12
 #### MAZE 2
 Building upon the Maze 1 module, students explore more intricate maze structures, honing their algorithmic problem-solving abilities.
 
-### BAS-12
+### BAS-13
 #### FREEFORM MAZE
 Students apply their programming skills to navigate through custom-made mazes with irregular shapes and obstacles, enhancing their adaptability and problem-solving skills.
 
 ### BAS-EXIT
 #### EXIT: CRANE SORT
 An exit module indicating completion of basic-level training, where students demonstrate their understanding of crane sorting concepts through practical implementation.
-
 
 ## Intermediate Curriculum
 
@@ -227,37 +226,77 @@ Students learn to create custom functions and variables in SPIKE Prime to stream
 This module covers advanced loop structures and logical operations in SPIKE Prime, enabling students to write more efficient and complex programs.
 
 ### ADV-01
-#### Black & White (B&W) Stop-n-Go
-This module challenges students to program SPIKE Prime to stop and go based on detecting black and white surfaces, refining their line-following skills.
+#### PERIMETER SQUARE
+Students learn to program the robot to move in the shape of a square using <i>Motor</i> blocks.
 
 ### ADV-02
-#### Red Green Blue (RGB) Speed Variation
-Students explore programming SPIKE Prime to adjust its speed based on detecting colors, enhancing their understanding of sensor-based control systems.
+#### PERIMETER FORWARD (FWD)
+Students learn to program the robot to move forward until it detects an obstacle using distance sensors, suitable for navigating controlled environments.
 
 ### ADV-03
-#### Perimeter Forward (FWD)
-Students learn to program SPIKE Prime to move forward until it detects an obstacle, suitable for navigating controlled environments.
+#### BLACK & WHITE (B&W) STOP-N-GO
+This module teaches students to program the robot to stop and go based on detecting black and white surfaces, introducing them to simple line-following concepts.
 
 ### ADV-04
-#### Perimeter Force
-Students program SPIKE Prime to move until it encounters a button press, simulating interactions with physical objects in its environment.
+#### RED GREEN BLUE (RGB) SPEED VARIATION
+Students explore programming the robot to adjust its speed based on detecting colors, enhancing their understanding of sensor-based control systems.
 
 ### ADV-05
+#### PERIMETER FORCE
+Students learn to program the robot to move until it encounters a force, simulating interactions with physical objects in its environment.
+
+### ADV-06
+#### PARALLEL PARK 1
+This module introduces the concept of parallel parking, teaching students how to program the robot to maneuver into tight spaces using precise movements.
+
+### ADV-07
+#### ESCAPE OF THE WALLS 1
+Students learn to program the robot to navigate within a constrained space, focusing on escaping from enclosed areas using sensor-based decision-making.
+
+### ADV-08
+#### ESCAPE OF THE WALLS 2
+Building upon the previous module, students further refine their programming skills to navigate more complex enclosed spaces with varying decision patterns.
+
+### ADV-09
+#### MAZE 1
+Introduction to maze-solving algorithms, where students program the robot to navigate through predefined mazes using distance sensors.
+
+### ADV-10
+#### PARALLEL PARK 2
+An advanced parallel parking module, challenging students to program the robot to navigate into even tighter spaces with greater precision.
+
+### ADV-11
+#### PARALLEL PARK 3
+Continuing from the previous module, students tackle more complex parallel parking scenarios, refining their programming skills and spatial awareness.
+
+### ADV-12
+#### MAZE 2
+Building upon the Maze 1 module, students explore more intricate maze structures, honing their algorithmic problem-solving abilities.
+
+### ADV-13
+#### FREEFORM MAZE
+Students apply their programming skills to navigate through custom-made mazes with irregular shapes and obstacles, enhancing their adaptability and problem-solving skills.
+
+### ADV-EXIT
+#### EXIT: CRANE SORT
+An exit module indicating completion of basic-level training, where students demonstrate their understanding of crane sorting concepts through practical implementation.
+
+### ADV-14
 #### SPIKE Prime Robotics Challenges: Part 1
 Students engage in challenging robotics tasks and missions designed to test their problem-solving skills and creativity using SPIKE Prime.
 
-### ADV-06
+### ADV-15
 #### SPIKE Prime Robotics Challenges: Part 2
 Continuing from Part 1, this module offers more complex challenges and missions for students to tackle, further enhancing their robotics capabilities.
 
-### ADV-07
+### ADV-16
 #### SPIKE Prime Robotics Challenges: Part 3
 The final installment of the robotics challenges series, providing students with the most advanced and intricate missions to showcase their skills.
 
-### ADV-08
+### ADV-17
 #### Data Logging and Analysis
 Students learn to collect and analyze data from sensors in SPIKE Prime, enabling them to make informed decisions and optimizations in their robotic projects.
 
-### ADV-09
+### ADV-18
 #### Wireless Communication and Remote Control with SPIKE Prime
 This module explores wireless communication protocols and methods for remote controlling SPIKE Prime robots, enabling collaborative and interactive projects.
