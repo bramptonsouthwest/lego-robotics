@@ -3,7 +3,7 @@
 
 ### Beginner Modules
 <tabcaption>
-<i>**Table 1.** List of beginner curriculum modules.</i>
+<i><b>Table 1.</b> List of beginner curriculum modules.</i>
 </tabcaption>
 
 | module_ID                    | module_name                                                                                     | training_level |
@@ -27,7 +27,7 @@
 
 ### Intermediate Modules
 <tabcaption>
-<i>**Table 2.** List of intermediate curriculum modules.</i>
+<i><b>Table 2.</b> List of intermediate curriculum modules.</i>
 </tabcaption>
 
 | module_ID                    | module_name                                                                                     | training_level |
@@ -52,7 +52,7 @@
 
 ### Advanced Modules
 <tabcaption>
-<i>**Table 3.** List of advanced curriculum modules.</i>
+<i><b>Table 3.</b> List of advanced curriculum modules.</i>
 </tabcaption>
 
 <<<<<<< main
