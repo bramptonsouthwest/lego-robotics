@@ -183,6 +183,9 @@ The final installment of the training camp series, providing comprehensive chall
 ### INT-12 - Guided Mission
 Students apply their programming knowledge to complete specific tasks and achieve predefined objectives in a guided mission. They demonstrate proficiency in advanced robotic maneuvers using loops, variables, and conditionals.
 
+### INT-EXIT - EXIT: First LEGO®️ League (FLL) Mission
+An exit module indicating completion of intermediate-level training. Students demonstrate readiness for advanced challenges by completing a guided FLL mission. It tests their ability to apply advanced programming concepts in real-world scenarios.
+
 ## Advanced Modules
 
 ### ADV-A-T - TUT: Introduction to MicroPython 1
