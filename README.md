@@ -112,7 +112,7 @@ By the end of this module, students will have constructed a solid driving base t
 
 In this module, students will program the robot to move in the shape of a square along the perimeter of a 34" x 34" table using blue Motor blocks. This activity emphasizes basic movement commands and spatial navigation, providing a strong foundation for understanding robot motion and control.
 
-**Outcomes:**
+**Objectives:**
 
 1. **Learn Basic Movement Commands:**
    - **Motor Control:** Students will understand how to use Motor blocks to control the robot’s movements. They will learn to make the robot move forward, execute precise turns, and stop at specific points, building foundational skills in robot programming.
@@ -132,7 +132,7 @@ By the end of this module, students will have a solid understanding of basic mov
 
 In this module, students will learn how to program a robot to stop and go based on detecting black and white surfaces. This activity introduces the fundamental concept of line detection and involves repetitive movement using simple "wait until" blocks.
 
-**Outcomes:**
+**Objectives:**
 
 1. **Program the Robot’s Movement:**
    - **Basic Movement Programming:** Students will create a program that makes the robot move forward and then stop when it detects a black surface. The robot will start moving again upon detecting a white surface. This exercise teaches basic programming logic and how to integrate sensors with movement commands.
@@ -156,7 +156,7 @@ By the end of this module, students will have a solid understanding of basic lin
 
 In this module, students will learn how to program a robot to adjust its speed based on the colors it detects using color sensors. This activity provides an introduction to sensor-based control systems and the use of basic variables for making dynamic adjustments to the robot's behavior.
 
-**Outcomes:**
+**Objectives:**
 
 1. **Assign Integer Values to Variables:**
    - **Color Detection and Speed Variables:** Students will create variables for each color detected by the robot’s color sensor and assign specific integer values to these variables. For example:
@@ -182,7 +182,7 @@ By the end of this module, students will have developed a solid understanding of
 
 In this module, students will program their robot to move forward until it detects an obstacle using ultrasonic (distance) sensors. This activity introduces basic sensor-based navigation and teaches students how to integrate sensor feedback into their robot's movement, making it suitable for controlled environments.
 
-**Outcomes:**
+**Objectives:**
 
 1. **Program Forward Movement:**
    - **Continuous Forward Motion:** Learn to program the robot to move forward continuously using Motor (blue) blocks. This foundational skill prepares students for integrating sensor feedback into the robot’s movement.
@@ -208,7 +208,7 @@ By the end of this module, students will have a solid understanding of how to in
 
 In this module, students will program their robot to move forward until it encounters a force by bumping into a wall, simulating interactions with physical objects in its environment. This activity introduces the use of Movement (magenta) blocks and force sensors, enhancing students' understanding of sensor-based control systems.
 
-**Outcomes:**
+**Objectives:**
 
 1. **Program Forward Movement:**
    - **Continuous Forward Motion:** Learn to program the robot to move forward continuously using Movement (magenta) blocks. This foundational skill prepares students for integrating force sensor feedback into the robot’s movement.
@@ -234,7 +234,7 @@ By the end of this module, students will have a solid understanding of how to in
 
 In this module, students will learn the fundamentals of parallel parking by programming their robot to fit into a parking space between two blue lines. This activity teaches precise control of the robot's movements and introduces students to concepts such as turning and reversing based on sensor input.
 
-**Outcomes:**
+**Objectives:**
 
 1. **Program Forward Movement:**
    - **Initial Approach:** Students will program the robot to move forward in a straight path until it detects a black line. This step is crucial for positioning the robot correctly at the start of the parking maneuver.
@@ -260,7 +260,7 @@ By the end of this module, students will gain experience in programming precise 
 
 This tutorial introduces the concept of "if statements," which are essential for making decisions in programming. Using if statements allows the robot to perform different actions based on the conditions it encounters, providing a foundation for conditional programming.
 
-**Outcomes:**
+**Objectives:**
 
 1. **Understand If Statements:**
    - **Introduction to Conditionals:** Students will learn how to use if statements to create programs where the robot makes decisions based on sensor inputs. If statements enable the robot to execute specific commands only when certain conditions are met.
@@ -342,7 +342,59 @@ In this module, students will learn how to program the robot to navigate through
 By the end of this module, students will have developed skills in maze-solving algorithms, sensor-based decision-making, and iterative programming techniques. They will gain practical experience in applying loops and `if` statements to navigate complex environments.
 
 ### BEG-10 - Parallel Park 2
-An advanced parallel parking module challenging students to program the robot to navigate into tighter spaces with greater precision. It builds on spatial awareness and precise motor control using nested loops.
+
+In this module, students will advance their skills in parallel parking by programming the robot to park accurately between two blue lines. This module builds on the fundamentals of parallel parking introduced in previous lessons, with a focus on precise maneuvers and sensor-based adjustments.
+
+#### Objectives:
+
+1. **Program Forward Movement:**
+   - Students will program the robot to move forward continuously until it detects a black line using a color sensor. This forward movement sets the stage for the parking sequence.
+
+2. **Turn on the Spot:**
+   - Upon detecting the black line, the robot will turn on the spot counter-clockwise by a specified angle (X degrees). This precise turning allows the robot to align itself correctly for the next maneuver.
+
+3. **Reverse in a Straight Path:**
+   - After turning, the robot will reverse in a straight path. The goal here is to back into the parking space, ensuring that it can position itself between the blue lines.
+
+4. **Sense the Bottom Blue Line:**
+   - While reversing, the robot will use a color sensor to detect the bottom blue line marking the edge of the parking space. This helps the robot determine when it has reached the correct position.
+
+5. **Turn Again:**
+   - Once the robot detects the bottom blue line, it will turn on the spot counter-clockwise by the same angle (X degrees) used earlier. This maneuver helps the robot align itself within the parking space.
+
+6. **Move Forward Until Close:**
+   - The robot will then move forward continuously until the distance sensor detects an object or wall at a distance less than X centimeters. This ensures that the robot is positioned correctly within the parking space.
+
+7. **Stop and Park:**
+   - Finally, the robot will stop once it is within the designated area between the top and bottom blue lines. This completes the parallel parking process, placing the robot accurately in the parking space.
+
+#### Example Workflow:
+
+1. **Move Forward:**
+   - Start by moving the robot forward until it senses the black line.
+
+2. **First Turn:**
+   - Turn counter-clockwise by angle X to align the robot for reversing.
+
+3. **Reverse:**
+   - Reverse the robot in a straight path until it senses the bottom blue line.
+
+4. **Second Turn:**
+   - Turn counter-clockwise by angle X again to position the robot within the parking space.
+
+5. **Final Adjustment:**
+   - Move forward until the distance sensor detects an object less than X cm away, ensuring the robot is properly parked.
+
+6. **Stop:**
+   - Stop the robot between the top and bottom blue lines to complete the parking sequence.
+
+#### Key Concepts:
+
+- **Precision Maneuvering:** The module emphasizes precise control over the robot’s movements and turns to ensure accurate parking.
+- **Sensor Integration:** Students learn to use both color and distance sensors to guide the robot through the parking process.
+- **Sequential Programming:** By following a specific sequence of movements and sensor checks, students reinforce their understanding of how to program complex tasks using conditional logic and loops.
+
+By the end of this module, students will have honed their ability to program the robot for precise parking maneuvers. They will gain practical experience in integrating multiple sensors and executing a series of programmed steps to achieve accurate results.
 
 ### BEG-11 - Parallel Park 3
 Continuing from the previous module, students tackle more complex parallel parking scenarios. They refine their programming skills with advanced spatial awareness and precise maneuvering using nested loops and condition checks.
