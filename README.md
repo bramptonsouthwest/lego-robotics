@@ -290,7 +290,7 @@ This tutorial introduces the concept of "if statements," which are essential for
 
 By the end of this tutorial, students will gain a solid understanding of if statements and how to use them for conditional programming. They will learn how to create programs that make decisions based on sensor inputs, an essential skill for more complex driving baseics challenges.
 
-### BEG-09 - Maze 1
+### BEG-07 - Maze 1
 
 In this module, students will learn how to program the driving base to navigate through a maze using ultrasonic distance sensors and color sensors. This activity introduces maze-solving algorithms and emphasizes the use of `if` statements for decision-making. Students will program the driving base to follow a specific sequence to escape the maze, focusing on iterative problem-solving with loops and sequential movement commands.
 
@@ -341,7 +341,7 @@ In this module, students will learn how to program the driving base to navigate 
 
 By the end of this module, students will have developed skills in maze-solving algorithms, sensor-based decision-making, and iterative programming techniques. They will gain practical experience in applying loops and `if` statements to navigate complex environments.
 
-### BEG-10 - Parallel Park 2
+### BEG-08 - Parallel Park 2
 
 In this module, students will advance their skills in parallel parking by programming the driving base to park accurately between two blue lines. This module builds on the fundamentals of parallel parking introduced in previous lessons, with a focus on precise maneuvers and sensor-based adjustments.
 
@@ -396,16 +396,16 @@ In this module, students will advance their skills in parallel parking by progra
 
 By the end of this module, students will have honed their ability to program the driving base for precise parking maneuvers. They will gain practical experience in integrating multiple sensors and executing a series of programmed steps to achieve accurate results.
 
-### BEG-11 - Parallel Park 3
+### BEG-09 - Parallel Park 3
 Continuing from the previous module, students tackle more complex parallel parking scenarios. They refine their programming skills with advanced spatial awareness and precise maneuvering using nested loops and condition checks.
 
-### BEG-12 - Maze 2
+### BEG-10 - Maze 2
 Building upon Maze 1, students explore more intricate maze structures and hone their algorithmic problem-solving abilities. They apply advanced strategies using loops, variables for pathfinding, and conditionals for decision-making.
 
-### BEG-07 - Escape of the Walls 1
+### BEG-11 - Escape of the Walls 1
 Students program the driving base to navigate within a confined space and escape from enclosed areas using ultrasonic (distance) sensor-based decision-making. This module reinforces basic navigation skills and introduces simple nested "wait until" loops.
 
-### BEG-08 - Escape of the Walls 2
+### BEG-12 - Escape of the Walls 2
 Building on the previous module, students refine their programming skills to navigate more complex enclosed spaces. They develop strategies for different decision patterns using nested "wait until" blocks.
 
 ### BEG-13 - Freeform Maze
