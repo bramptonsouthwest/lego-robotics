@@ -83,28 +83,178 @@
 | [ADV-17](#ADV-17)            | [Data Logging and Analysis](3_advanced/ADV-17_Data-Logging-and-Analysis.llsp3)                  | ADVANCED       |
 | [ADV-18](#ADV-18)            | [Wireless Communication and Remote Control](3_advanced/ADV-18_Wireless-Communication-and-Remote-Control.llsp3) | ADVANCED       |
 
-## Beginner Modules
+## BEGINNER MODULES
 
 ### BEG-00 - Driving Base Build
-This module focuses on building a robust driving base for the robot. Students learn about structural integrity, motor placement, and wheel configurations to ensure stability and efficient movement.
+
+In this foundational module, students will focus on constructing a robust and reliable driving base for their robot. This driving base serves as the platform for all future modules, making it crucial to ensure it is built with structural integrity, proper motor placement, and optimal wheel configurations.
+
+**Outcomes**
+
+1. **Understand Structural Integrity:**
+   - **Building Strength:** Students will learn about the importance of a strong and stable base. They will explore various building techniques to enhance the strength and durability of the robot's base, ensuring it can handle different tasks and challenges effectively.
+
+2. **Master Motor Placement:**
+   - **Efficient Motor Setup:** Students will discover how to strategically place motors to achieve balanced and efficient movement. Proper motor placement is crucial for ensuring the robot moves smoothly and accurately, avoiding issues like tipping or wobbling.
+
+3. **Explore Wheel Configurations:**
+   - **Wheel Setup:** Students will experiment with different wheel configurations to determine the most effective setup for their robot. They will learn how wheel size, positioning, and alignment impact the robot's performance and maneuverability.
+
+4. **Build the Driving Base:**
+   - **Construction:** Following detailed instructions, students will assemble the driving base, applying their knowledge of structural integrity, motor placement, and wheel configurations. They will use various LEGO® pieces to create a sturdy and functional platform for their robot.
+
+5. **Test and Refine:**
+   - **Performance Testing:** Once the driving base is built, students will test its stability and movement. They will make adjustments as needed to improve its performance, ensuring it meets the standards required for future modules.
+
+By the end of this module, students will have constructed a solid driving base that serves as the foundation for their robotic projects. This module not only teaches essential building skills but also highlights the importance of a well-designed base for achieving optimal robot performance.
 
 ### BEG-01 - Perimeter Square
-Students program the robot to move in the shape of a square using Motor blocks. This module emphasizes basic movement commands and spatial navigation.
+
+In this module, students will program the robot to move in the shape of a square along the perimeter of a 34" x 34" table using blue Motor blocks. This activity emphasizes basic movement commands and spatial navigation, providing a strong foundation for understanding robot motion and control.
+
+**Outcomes:**
+
+1. **Learn Basic Movement Commands:**
+   - **Motor Control:** Students will understand how to use Motor blocks to control the robot’s movements. They will learn to make the robot move forward, execute precise turns, and stop at specific points, building foundational skills in robot programming.
+
+2. **Program a Square Path:**
+   - **Path Programming:** Students will program the robot to move along the perimeter of a square. This involves moving the robot forward for a set distance, making a 90-degree turn, and repeating this sequence four times to complete the square. This exercise reinforces the concept of structured movement.
+
+3. **Use Loops for Repetition:**
+   - **Loop Implementation:** Students will utilize loops to simplify the programming process. By placing the forward movement and turning commands inside a loop, they ensure the robot performs these actions four times, making the programming more efficient and reducing redundancy.
+
+4. **Focus on Precision and Accuracy:**
+   - **Precision Programming:** Students will learn the importance of precision in programming. They will need to carefully adjust the distance and turning angles to ensure the robot follows the exact path along the table’s perimeter without deviating from the intended square shape.
+
+By the end of this module, students will have a solid understanding of basic movement commands and the use of loops for repetitive actions. This module will also enhance their spatial awareness and ability to control the robot's navigation accurately.
 
 ### BEG-02 - Black & White (B&W) Stop-n-Go
-Students learn to program the robot to stop and go based on detecting black and white surfaces. This module introduces simple line-following concepts using "wait until" blocks for condition checks.
+
+In this module, students will learn how to program a robot to stop and go based on detecting black and white surfaces. This activity introduces the fundamental concept of line detection and involves repetitive movement using simple "wait until" blocks.
+
+**Outcomes:**
+
+1. **Program the Robot’s Movement:**
+   - **Basic Movement Programming:** Students will create a program that makes the robot move forward and then stop when it detects a black surface. The robot will start moving again upon detecting a white surface. This exercise teaches basic programming logic and how to integrate sensors with movement commands.
+
+2. **Develop Two Distinct Programs:**
+   - **Program 1:** Students will use specific blocks to detect black and white colors from a color list. This version helps them understand how to work with predefined color categories and basic color detection.
+   - **Program 2:** Students will create a program that uses an integer value representing the percentage of light reflected by the surfaces. This version introduces more granular control, where students need to set thresholds to differentiate between "black" and "white" based on light reflection data.
+
+3. **Understand Line Detection:**
+   - **Line Detection Basics:** The module focuses on line detection, a crucial skill for many robotics competitions and practical applications. By programming the robot to follow lines, students gain valuable experience for more complex tasks in future modules.
+
+4. **Implement Repetitive Movement:**
+   - **Using "Wait Until" Blocks:** Students will use "wait until" blocks to continuously check for changes in surface color and adjust the robot’s movement accordingly. This reinforces the use of control blocks for decision-making and iterative actions.
+
+5. **Test and Refine:**
+   - **Performance Testing:** Students will test their programs on a track designed with alternating black and white sections to ensure the robot responds correctly to surface changes. They will refine their programs based on performance, making adjustments to color detection and movement commands as needed.
+
+By the end of this module, students will have a solid understanding of basic line-following techniques and sensor-based control. This foundation will be essential for tackling more advanced robotics programming tasks in future modules.
 
 ### BEG-03 - Red Green Blue (RGB) Speed Variation
-This module explores programming the robot to adjust its speed based on detecting colors using color sensors. It enhances students' understanding of sensor-based control systems and introduces basic variables for speed adjustments.
 
-### BEG-02 - Perimeter Forward (FWD)
-In this module, students program the robot to move forward until it detects an obstacle using distance sensors. It introduces basic sensor-based navigation suitable for controlled environments.
+In this module, students will learn how to program a robot to adjust its speed based on the colors it detects using color sensors. This activity provides an introduction to sensor-based control systems and the use of basic variables for making dynamic adjustments to the robot's behavior.
+
+**Outcomes:**
+
+1. **Assign Integer Values to Variables:**
+   - **Color Detection and Speed Variables:** Students will create variables for each color detected by the robot’s color sensor and assign specific integer values to these variables. For example:
+     - **Red Detection:** When the sensor detects the color red, an integer value, such as 3, is assigned to a variable representing the speed.
+     - **Green Detection:** When the sensor detects the color green, a different integer value, such as 6, is assigned to a speed variable.
+     - **Blue Detection:** When the sensor detects the color blue, another integer value, such as 9, is assigned to a speed variable.
+   - **Variable Usage:** These integer values will be used to control the robot’s speed, allowing students to see how changing the values affects the robot's performance.
+
+2. **Program Speed Adjustments:**
+   - **Implementing Speed Control:** Students will program the robot to adjust its speed based on the integer values assigned to the variables. The robot will operate with varying speeds depending on the color detected:
+     - **Red Color:** The robot will move at a slower speed when it detects red.
+     - **Green Color:** The robot will move at a moderate speed when it detects green.
+     - **Blue Color:** The robot will move at its maximum speed when it detects blue.
+   - **Testing and Calibration:** Students will test the robot on a track or surface with different colors to observe how it changes speed. They will refine their programs to ensure accurate and smooth speed transitions.
+
+3. **Understand Sensor-Based Control Systems:**
+   - **Sensor Integration:** Students will gain practical experience with integrating color sensors into their programming. They will learn how sensor inputs can be used to control various aspects of the robot's behavior.
+   - **Dynamic Adjustments:** By using variables to represent different speeds, students will understand how to make dynamic adjustments based on real-time sensor data.
+
+By the end of this module, students will have developed a solid understanding of how to use sensors to influence the robot's speed and behavior. They will also be comfortable working with variables to make real-time adjustments, laying the groundwork for more complex sensor-based programming tasks in future modules.
+
+### BEG-04 - Perimeter Forward (FWD)
+
+In this module, students will program their robot to move forward until it detects an obstacle using distance sensors. This activity introduces basic sensor-based navigation and teaches students how to integrate sensor feedback into their robot's movement, making it suitable for controlled environments.
+
+**Outcomes:**
+
+1. **Program Forward Movement:**
+   - **Continuous Forward Motion:** Learn to program the robot to move forward continuously using Motor (blue) blocks. This foundational skill prepares students for integrating sensor feedback into the robot’s movement.
+
+2. **Use Distance Sensors:**
+   - **Obstacle Detection:** Discover how to use distance sensors to detect obstacles. Students will program the robot to stop moving forward when it senses a wall or obstacle in its path.
+
+3. **Implement Turning Mechanism:**
+   - **Turning on Detection:** After detecting a wall, the robot will turn on the spot clockwise to face 90º from its initial direction. This turning maneuver is crucial for navigating around the perimeter of a defined area.
+
+4. **Continue Navigation:**
+   - **Movement Sequence:** Program the robot to continue moving straight after turning until it senses the next wall. This sequence—move forward, sense wall, turn—will be repeated multiple times to navigate around the perimeter.
+
+5. **Final Movement:**
+   - **Completion of Path:** Once the robot has navigated around three walls and turned accordingly, it will move straight a fixed distance, either in centimeters or inches, to complete its journey around the perimeter.
+
+6. **Test and Refine:**
+   - **Performance Testing:** Students will test their program to ensure the robot navigates the perimeter correctly. They will make adjustments to sensor sensitivity, turning angles, and movement distances to achieve precise navigation.
+
+By the end of this module, students will have a solid understanding of how to integrate distance sensors with motor commands to create a responsive robot capable of navigating around obstacles. This activity lays the groundwork for more complex sensor-based navigation tasks in future modules.
 
 ### BEG-05 - Perimeter Force
-Students program the robot to move until it encounters a force, simulating interactions with physical objects in its environment. This module introduces basic handling of force sensors and repetitive movement with simple "wait until" blocks.
+
+In this module, students will program their robot to move forward until it encounters a force by bumping into a wall, simulating interactions with physical objects in its environment. This activity introduces the use of Movement (magenta) blocks and force sensors, enhancing students' understanding of sensor-based control systems.
+
+**Outcomes:**
+
+1. **Program Forward Movement:**
+   - **Continuous Forward Motion:** Learn to program the robot to move forward continuously using Movement (magenta) blocks. This foundational skill prepares students for integrating force sensor feedback into the robot’s movement.
+
+2. **Use Force Sensors:**
+   - **Collision Detection:** Discover how to use force sensors to detect when the robot bumps into a wall. Students will program the robot to stop moving forward when it encounters a force, simulating a collision with an obstacle.
+
+3. **Implement Turning Mechanism:**
+   - **Turning on Detection:** After detecting a wall, the robot will turn on the spot clockwise to face 90º from its initial direction. This turning maneuver is essential for navigating around the perimeter of a defined area.
+
+4. **Continue Navigation:**
+   - **Movement Sequence:** Program the robot to continue moving straight after turning until it encounters another wall. This sequence—move forward, encounter a force, turn—will be repeated multiple times to navigate around the perimeter.
+
+5. **Final Movement:**
+   - **Completion of Path:** Once the robot has navigated around three walls and turned accordingly, it will move straight a fixed distance, either in centimeters or inches, to complete its journey around the perimeter.
+
+6. **Test and Refine:**
+   - **Performance Testing:** Students will test their program to ensure the robot navigates the perimeter correctly. They will adjust the force sensor sensitivity, turning angles, and movement distances to achieve precise navigation.
+
+By the end of this module, students will have a solid understanding of how to integrate force sensors with motor commands to create a responsive robot capable of detecting and reacting to physical obstacles. This activity lays the groundwork for more complex sensor-based navigation tasks in future modules.
 
 ### BEG-06 - Parallel Park 1
-The module teaches students the fundamentals of parallel parking. They learn to program the robot to maneuver into tight spaces using precise movements, emphasizing spatial awareness and basic loop structures.
+
+In this module, students will learn the fundamentals of parallel parking by programming their robot to fit into a parking space between two blue lines. This activity teaches precise control of the robot's movements and introduces students to concepts such as turning and reversing based on sensor input.
+
+**Outcomes:**
+
+1. **Program Forward Movement:**
+   - **Initial Approach:** Students will program the robot to move forward in a straight path until it detects a black line. This step is crucial for positioning the robot correctly at the start of the parking maneuver.
+
+2. **Implement Counter-Clockwise Turn:**
+   - **First Turn:** Upon detecting the black line, the robot will turn on the spot counter-clockwise by a specific angle (X). This turn is designed to position the robot at the correct angle to begin the reverse maneuver.
+
+3. **Reverse in a Straight Path:**
+   - **Reversing:** Program the robot to reverse in a straight path. The robot will continue reversing until it senses the bottom blue line, which indicates it is approaching the end of the parking space.
+
+4. **Perform a Second Counter-Clockwise Turn:**
+   - **Second Turn:** Once the bottom blue line is detected, the robot will turn on the spot counter-clockwise by the same angle (X) used in the first turn. This turn aligns the robot for the final approach into the parking space.
+
+5. **Move Forward to Final Position:**
+   - **Final Approach:** After the second turn, the robot will move forward continuously until it detects the top blue line. This line signals that the robot has successfully parked within the space. The robot will then stop.
+
+6. **Test and Refine:**
+   - **Performance Testing:** Students will test their program to ensure the robot can accurately park between the blue lines. They will make adjustments to the turning angle, movement distances, and sensor sensitivity as needed to improve accuracy and performance.
+
+By the end of this module, students will gain experience in programming precise movements and utilizing sensors for navigation tasks. They will develop a better understanding of how to execute complex maneuvers, such as parallel parking, which is essential for more advanced robotics challenges.
 
 ### BEG-A-T - TUT: If Statements
 This tutorial introduces if statements, a fundamental concept for conditional programming. It provides students with the ability to make decisions based on sensor inputs and conditions.
