@@ -180,15 +180,15 @@ By the end of this module, students will have developed a solid understanding of
 
 ### BEG-04 - Perimeter Forward (FWD)
 
-In this module, students will program their robot to move forward until it detects an obstacle using distance sensors. This activity introduces basic sensor-based navigation and teaches students how to integrate sensor feedback into their robot's movement, making it suitable for controlled environments.
+In this module, students will program their robot to move forward until it detects an obstacle using ultrasonic (distance) sensors. This activity introduces basic sensor-based navigation and teaches students how to integrate sensor feedback into their robot's movement, making it suitable for controlled environments.
 
 **Outcomes:**
 
 1. **Program Forward Movement:**
    - **Continuous Forward Motion:** Learn to program the robot to move forward continuously using Motor (blue) blocks. This foundational skill prepares students for integrating sensor feedback into the robot’s movement.
 
-2. **Use Distance Sensors:**
-   - **Obstacle Detection:** Discover how to use distance sensors to detect obstacles. Students will program the robot to stop moving forward when it senses a wall or obstacle in its path.
+2. **Use ultrasonic (distance) sensors:**
+   - **Obstacle Detection:** Discover how to use ultrasonic (distance) sensors to detect obstacles. Students will program the robot to stop moving forward when it senses a wall or obstacle in its path.
 
 3. **Implement Turning Mechanism:**
    - **Turning on Detection:** After detecting a wall, the robot will turn on the spot clockwise to face 90º from its initial direction. This turning maneuver is crucial for navigating around the perimeter of a defined area.
@@ -202,7 +202,7 @@ In this module, students will program their robot to move forward until it detec
 6. **Test and Refine:**
    - **Performance Testing:** Students will test their program to ensure the robot navigates the perimeter correctly. They will make adjustments to sensor sensitivity, turning angles, and movement distances to achieve precise navigation.
 
-By the end of this module, students will have a solid understanding of how to integrate distance sensors with motor commands to create a responsive robot capable of navigating around obstacles. This activity lays the groundwork for more complex sensor-based navigation tasks in future modules.
+By the end of this module, students will have a solid understanding of how to integrate ultrasonic (distance) sensors with motor commands to create a responsive robot capable of navigating around obstacles. This activity lays the groundwork for more complex sensor-based navigation tasks in future modules.
 
 ### BEG-05 - Perimeter Force
 
@@ -257,16 +257,89 @@ In this module, students will learn the fundamentals of parallel parking by prog
 By the end of this module, students will gain experience in programming precise movements and utilizing sensors for navigation tasks. They will develop a better understanding of how to execute complex maneuvers, such as parallel parking, which is essential for more advanced robotics challenges.
 
 ### BEG-A-T - TUT: If Statements
-This tutorial introduces if statements, a fundamental concept for conditional programming. It provides students with the ability to make decisions based on sensor inputs and conditions.
 
-### BEG-07 - Escape of the Walls 1
-Students program the robot to navigate within a confined space and escape from enclosed areas using sensor-based decision-making. This module reinforces basic navigation skills and introduces simple nested "wait until" loops.
+This tutorial introduces the concept of "if statements," which are essential for making decisions in programming. Using if statements allows the robot to perform different actions based on the conditions it encounters, providing a foundation for conditional programming.
 
-### BEG-08 - Escape of the Walls 2
-Building on the previous module, students refine their programming skills to navigate more complex enclosed spaces. They develop strategies for different decision patterns using nested "wait until" blocks.
+**Outcomes:**
+
+1. **Understand If Statements:**
+   - **Introduction to Conditionals:** Students will learn how to use if statements to create programs where the robot makes decisions based on sensor inputs. If statements enable the robot to execute specific commands only when certain conditions are met.
+
+2. **Program with Color Sensor:**
+   - **Detecting Colors:** Students will program the robot to use a color sensor to detect colored lines that are perpendicular to its path. The robot will be required to respond differently based on the color it senses.
+
+3. **Implement Actions for Different Colors:**
+   - **For Blue:** If the color sensor detects blue, the robot will perform the following sequence:
+     - Turn on the spot counter-clockwise by 90 degrees.
+     - Wait for one second.
+     - Turn on the spot clockwise by 90 degrees.
+   - **For Red:** If the color sensor detects red, the robot will perform the following sequence:
+     - Turn on the spot clockwise by 90 degrees.
+     - Wait for one second.
+     - Turn on the spot counter-clockwise by 90 degrees.
+
+4. **Develop Two Distinct Programs:**
+   - **Program 1 (Using "Wait Until"):** Students will create a program that accomplishes the task using "wait until" blocks. This program will check for color conditions and perform the appropriate actions based on those conditions.
+   - **Program 2 (Using "If Statements"):** Students will create a second program that uses if statements to achieve the same task. This approach will demonstrate how if statements can be used to make decisions and control the robot’s behavior.
+
+5. **Compare and Analyze:**
+   - **Evaluate Approaches:** Students will compare the two programs to understand the differences between using "wait until" blocks and if statements. They will analyze how each approach handles decision-making and control flow.
+
+6. **Test and Refine:**
+   - **Performance Testing:** Students will test both programs to ensure the robot responds correctly to different colors and performs the desired actions. They will refine their programs based on the performance results, adjusting the conditions and actions as needed.
+
+By the end of this tutorial, students will gain a solid understanding of if statements and how to use them for conditional programming. They will learn how to create programs that make decisions based on sensor inputs, an essential skill for more complex robotics challenges.
 
 ### BEG-09 - Maze 1
-This module introduces maze-solving algorithms where students program the robot to navigate predefined mazes using distance sensors. It focuses on iterative problem-solving using loops and sequential movement commands.
+
+In this module, students will learn how to program the robot to navigate through a maze using ultrasonic distance sensors and color sensors. This activity introduces maze-solving algorithms and emphasizes the use of `if` statements for decision-making. Students will program the robot to follow a specific sequence to escape the maze, focusing on iterative problem-solving with loops and sequential movement commands.
+
+#### Objectives:
+
+1. **Understand Maze Navigation:**
+   - Students will learn to navigate a maze constructed using storage bins. The robot must follow a series of programmed steps to find its way out of the maze.
+
+2. **Program Robot Movement:**
+   - The robot will continuously move forward until it detects a wall using the ultrasonic distance sensor. Upon detecting a wall, it will:
+     - Turn on the spot clockwise by 90 degrees.
+     - Move forward again until it detects another wall.
+     - Turn on the spot clockwise by 90 degrees again.
+     - Move forward and continue this pattern until it detects a colored piece of tape on the floor using the color sensor.
+
+3. **Use of If Statements:**
+   - Implement `if` statements to manage the robot's behavior based on sensor inputs:
+     - **If** the distance sensor detects a wall, **then** turn the robot clockwise.
+     - **If** the color sensor detects the colored tape, **then** stop the robot.
+
+4. **Implement Iterative Problem-Solving:**
+   - Use loops to repeat the movement and turning actions. This involves programming the robot to keep moving forward and adjusting its direction when necessary based on the sensor feedback.
+
+5. **Sequential Movement Commands:**
+   - Ensure that the robot performs the correct sequence of actions: moving forward, turning, and checking for colored tape. This sequence helps the robot systematically navigate the maze.
+
+#### Example Workflow:
+
+1. **Start Moving Forward:**
+   - The robot begins by moving forward continuously.
+
+2. **Detect Wall and Turn:**
+   - When the distance sensor detects a wall, the robot will:
+     - Turn on the spot clockwise by 90 degrees.
+     - Move forward until it detects another wall.
+
+3. **Repeat Turning and Moving:**
+   - Repeat the turning and moving steps until the robot detects the colored tape with the color sensor.
+
+4. **Stop at Colored Tape:**
+   - Once the robot senses the colored tape, it will stop, indicating that it has reached the end of the maze.
+
+#### Key Concepts:
+
+- **Maze-Solving Algorithms:** Students learn how to solve a maze by programming the robot to navigate using sensor inputs and predefined movement patterns.
+- **If Statements:** Students use `if` statements to make decisions based on sensor data, enabling the robot to adjust its movement accordingly.
+- **Loops and Sequential Commands:** The module reinforces the use of loops to repeat actions and sequential commands to manage the robot's path through the maze.
+
+By the end of this module, students will have developed skills in maze-solving algorithms, sensor-based decision-making, and iterative programming techniques. They will gain practical experience in applying loops and `if` statements to navigate complex environments.
 
 ### BEG-10 - Parallel Park 2
 An advanced parallel parking module challenging students to program the robot to navigate into tighter spaces with greater precision. It builds on spatial awareness and precise motor control using nested loops.
@@ -276,6 +349,12 @@ Continuing from the previous module, students tackle more complex parallel parki
 
 ### BEG-12 - Maze 2
 Building upon Maze 1, students explore more intricate maze structures and hone their algorithmic problem-solving abilities. They apply advanced strategies using loops, variables for pathfinding, and conditionals for decision-making.
+
+### BEG-07 - Escape of the Walls 1
+Students program the robot to navigate within a confined space and escape from enclosed areas using ultrasonic (distance) sensor-based decision-making. This module reinforces basic navigation skills and introduces simple nested "wait until" loops.
+
+### BEG-08 - Escape of the Walls 2
+Building on the previous module, students refine their programming skills to navigate more complex enclosed spaces. They develop strategies for different decision patterns using nested "wait until" blocks.
 
 ### BEG-13 - Freeform Maze
 Students apply their programming skills to navigate custom-made mazes with irregular shapes and obstacles. This module enhances adaptability, problem-solving, and creativity using loops, variables, and advanced decision-making.
@@ -348,7 +427,7 @@ Building on Introduction to MicroPython 1, this module dives deeper into MicroPy
 Students learn advanced motor control techniques in SPIKE Prime such as PID control, synchronized movement, and complex motion profiles. They apply these techniques to create precise and efficient robotic movements.
 
 ### ADV-D-T - TUT: Sensor Integration
-Students learn to integrate various sensors with SPIKE Prime including gyroscopes, color sensors, and distance sensors for advanced robotic applications. They develop sensor fusion techniques to enhance robot navigation and interaction capabilities.
+Students learn to integrate various sensors with SPIKE Prime including gyroscopes, color sensors, and ultrasonic (distance) sensors for advanced robotic applications. They develop sensor fusion techniques to enhance robot navigation and interaction capabilities.
 
 ### ADV-E-T - TUT: Custom Functions and Variables
 Students learn to create custom functions and variables in SPIKE Prime to streamline their code, improve readability, and enhance code maintainability. They apply these skills to develop modular and efficient robotic programs.
@@ -360,7 +439,7 @@ This module covers advanced loop structures and logical operations in SPIKE Prim
 Students program the robot to move in the shape of a square using Motor blocks. They apply advanced movement commands and precision control techniques to achieve accurate geometric shapes.
 
 ### ADV-02 - Perimeter Forward (FWD)
-Program the robot to move forward until it detects an obstacle using distance sensors. Students refine their sensor integration skills and apply advanced navigation algorithms for obstacle avoidance.
+Program the robot to move forward until it detects an obstacle using ultrasonic (distance) sensors. Students refine their sensor integration skills and apply advanced navigation algorithms for obstacle avoidance.
 
 ### ADV-03 - Black & White (B&W) Stop-n-Go
 This module teaches students to program the robot to stop and go based on detecting black and white surfaces. They apply advanced line-following techniques using nested "wait until" blocks for adaptive navigation.
@@ -381,7 +460,7 @@ Students program the robot to navigate within a constrained space and escape fro
 Building upon Escape of the Walls 1, students further refine their programming skills to navigate more complex enclosed spaces with varying decision patterns. They apply advanced decision-making algorithms using nested loops and conditionals.
 
 ### ADV-09 - Maze 1
-Introduction to maze-solving algorithms where students program the robot to navigate through predefined mazes using distance sensors. They develop advanced pathfinding algorithms using loops, variables, and conditionals.
+Introduction to maze-solving algorithms where students program the robot to navigate through predefined mazes using ultrasonic (distance) sensors. They develop advanced pathfinding algorithms using loops, variables, and conditionals.
 
 ### ADV-10 - Parallel Park 2
 An advanced parallel parking module challenging students to program the robot to navigate into even tighter spaces with greater precision. They apply advanced spatial awareness and motor control techniques using nested loops and conditionals.
