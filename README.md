@@ -1,4 +1,4 @@
-# First LEGO®️ League (FLL) driving baseics
+# First LEGO®️ League (FLL) Robotics
 ## Curriculum Modules
 
 ### Beginner Modules
@@ -77,9 +77,9 @@
 | [ADV-12](#ADV-12)            | [Maze 2](3_advanced/ADV-12_Maze-2.llsp3)                                                        | ADVANCED       |
 | [ADV-13](#ADV-13)            | [Freeform Maze](3_advanced/ADV-13_Freeform-Maze.llsp3)                                          | ADVANCED       |
 | [ADV-EXIT](#ADV-EXIT)        | [Exit: Crane Sort](3_advanced/ADV-EXIT_Crane-Sort.llsp3)                                        | ADVANCED       |
-| [ADV-14](#ADV-14)            | [Spike Prime driving baseics Challenges: Part 1](3_advanced/ADV-14_Spike-Prime-driving baseics-Challenges-Part-1.llsp3) | ADVANCED       |
-| [ADV-15](#ADV-15)            | [Spike Prime driving baseics Challenges: Part 2](3_advanced/ADV-15_Spike-Prime-driving baseics-Challenges-Part-2.llsp3) | ADVANCED       |
-| [ADV-16](#ADV-16)            | [Spike Prime driving baseics Challenges: Part 3](3_advanced/ADV-16_Spike-Prime-driving baseics-Challenges-Part-3.llsp3) | ADVANCED       |
+| [ADV-14](#ADV-14)            | [Spike Prime robotics Challenges: Part 1](3_advanced/ADV-14_Spike-Prime-robotics-Challenges-Part-1.llsp3) | ADVANCED       |
+| [ADV-15](#ADV-15)            | [Spike Prime robotics Challenges: Part 2](3_advanced/ADV-15_Spike-Prime-robotics-Challenges-Part-2.llsp3) | ADVANCED       |
+| [ADV-16](#ADV-16)            | [Spike Prime robotics Challenges: Part 3](3_advanced/ADV-16_Spike-Prime-robotics-Challenges-Part-3.llsp3) | ADVANCED       |
 | [ADV-17](#ADV-17)            | [Data Logging and Analysis](3_advanced/ADV-17_Data-Logging-and-Analysis.llsp3)                  | ADVANCED       |
 | [ADV-18](#ADV-18)            | [Wireless Communication and Remote Control](3_advanced/ADV-18_Wireless-Communication-and-Remote-Control.llsp3) | ADVANCED       |
 
@@ -142,7 +142,7 @@ In this module, students will learn how to program a driving base to stop and go
    - **Program 2:** Students will create a program that uses an integer value representing the percentage of light reflected by the surfaces. This version introduces more granular control, where students need to set thresholds to differentiate between "black" and "white" based on light reflection data.
 
 3. **Understand Line Detection:**
-   - **Line Detection Basics:** The module focuses on line detection, a crucial skill for many driving baseics competitions and practical applications. By programming the driving base to follow lines, students gain valuable experience for more complex tasks in future modules.
+   - **Line Detection Basics:** The module focuses on line detection, a crucial skill for many robotics competitions and practical applications. By programming the driving base to follow lines, students gain valuable experience for more complex tasks in future modules.
 
 4. **Implement Repetitive Movement:**
    - **Using "Wait Until" Blocks:** Students will use "wait until" blocks to continuously check for changes in surface color and adjust the driving base’s movement accordingly. This reinforces the use of control blocks for decision-making and iterative actions.
@@ -150,7 +150,7 @@ In this module, students will learn how to program a driving base to stop and go
 5. **Test and Refine:**
    - **Performance Testing:** Students will test their programs on a track designed with alternating black and white sections to ensure the driving base responds correctly to surface changes. They will refine their programs based on performance, making adjustments to color detection and movement commands as needed.
 
-By the end of this module, students will have a solid understanding of basic line-following techniques and sensor-based control. This foundation will be essential for tackling more advanced driving baseics programming tasks in future modules.
+By the end of this module, students will have a solid understanding of basic line-following techniques and sensor-based control. This foundation will be essential for tackling more advanced robotics programming tasks in future modules.
 
 ### BEG-03 - Red Green Blue (RGB) Speed Variation
 
@@ -254,7 +254,7 @@ In this module, students will learn the fundamentals of parallel parking by prog
 6. **Test and Refine:**
    - **Performance Testing:** Students will test their program to ensure the driving base can accurately park between the blue lines. They will make adjustments to the turning angle, movement distances, and sensor sensitivity as needed to improve accuracy and performance.
 
-By the end of this module, students will gain experience in programming precise movements and utilizing sensors for navigation tasks. They will develop a better understanding of how to execute complex maneuvers, such as parallel parking, which is essential for more advanced driving baseics challenges.
+By the end of this module, students will gain experience in programming precise movements and utilizing sensors for navigation tasks. They will develop a better understanding of how to execute complex maneuvers, such as parallel parking, which is essential for more advanced robotics challenges.
 
 ### BEG-A-T - TUT: If Statements
 
@@ -288,7 +288,7 @@ This tutorial introduces the concept of "if statements," which are essential for
 6. **Test and Refine:**
    - **Performance Testing:** Students will test both programs to ensure the driving base responds correctly to different colors and performs the desired actions. They will refine their programs based on the performance results, adjusting the conditions and actions as needed.
 
-By the end of this tutorial, students will gain a solid understanding of if statements and how to use them for conditional programming. They will learn how to create programs that make decisions based on sensor inputs, an essential skill for more complex driving baseics challenges.
+By the end of this tutorial, students will gain a solid understanding of if statements and how to use them for conditional programming. They will learn how to create programs that make decisions based on sensor inputs, an essential skill for more complex robotics challenges.
 
 ### BEG-09 - Maze 1
 
@@ -529,14 +529,14 @@ Students apply their programming skills to navigate custom-made mazes with irreg
 ### ADV-EXIT - EXIT: Crane Sort
 An exit module indicating completion of advanced-level training, where students demonstrate their understanding of crane sorting concepts through practical implementation. It tests their ability to apply advanced programming concepts to real-world scenarios.
 
-### ADV-14 - SPIKE Prime driving baseics Challenges: Part 1
-Students engage in challenging driving baseics tasks and missions designed to test their problem-solving skills and creativity using SPIKE Prime. They apply comprehensive programming techniques including loops, variables, and conditionals.
+### ADV-14 - SPIKE Prime robotics Challenges: Part 1
+Students engage in challenging robotics tasks and missions designed to test their problem-solving skills and creativity using SPIKE Prime. They apply comprehensive programming techniques including loops, variables, and conditionals.
 
-### ADV-15 - SPIKE Prime driving baseics Challenges: Part 2
-Continuing from Part 1, this module offers more complex challenges and missions for students to tackle, further enhancing their driving baseics capabilities. They apply advanced programming skills to solve intricate driving baseic tasks using SPIKE Prime.
+### ADV-15 - SPIKE Prime robotics Challenges: Part 2
+Continuing from Part 1, this module offers more complex challenges and missions for students to tackle, further enhancing their robotics capabilities. They apply advanced programming skills to solve intricate driving baseic tasks using SPIKE Prime.
 
-### ADV-16 - SPIKE Prime driving baseics Challenges: Part 3
-The final installment of the driving baseics challenges series, providing students with the most advanced and intricate missions to showcase their skills. They demonstrate mastery of advanced programming concepts through complex driving baseic tasks using SPIKE Prime.
+### ADV-16 - SPIKE Prime robotics Challenges: Part 3
+The final installment of the robotics challenges series, providing students with the most advanced and intricate missions to showcase their skills. They demonstrate mastery of advanced programming concepts through complex driving baseic tasks using SPIKE Prime.
 
 ### ADV-17 - Data Logging and Analysis
 Students learn to collect and analyze data from sensors in SPIKE Prime, enabling them to make informed decisions and optimizations in their driving baseic projects. They develop data logging algorithms using loops, variables, and conditionals for data-driven insights.
