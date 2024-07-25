@@ -8,8 +8,8 @@
 
 | module_ID                    | module_name                                                                                     | training_level |
 |:-----------------------------|:------------------------------------------------------------------------------------------------|:---------------|
-| [BEG-00](#BEG-00)            | [Driving Base Build](1_beginner/BEG-00_Driving-Base-Build.pdf)                                  | BEGINNER       |
-| [BEG-01](#BEG-01)            | [Perimeter Square](1_beginner/BEG-01_Perimeter-Square.llsp3)                                    | BEGINNER       |
+| [BEG-00](###BEG-00)            | [Driving Base Build](1_beginner/BEG-00_Driving-Base-Build.pdf)                                  | BEGINNER       |
+| [BEG-01](###BEG-01)            | [Perimeter Square](1_beginner/BEG-01_Perimeter-Square.llsp3)                                    | BEGINNER       |
 | [BEG-02](#BEG-02)            | [Black & White (B&W) Stop-n-Go](1_beginner/BEG-02_B&W-Stop-n-Go.llsp3)                          | BEGINNER       |
 | [BEG-03](#BEG-03)            | [Red Green Blue (RGB) Speed Variation](1_beginner/BEG-03_RGB-Speed-Variation.llsp3)             | BEGINNER       |
 | [BEG-04](#BEG-04)            | [Perimeter Forward (FWD)](1_beginner/BEG-04_Perimeter-FWD.llsp3)                                | BEGINNER       |
@@ -21,7 +21,7 @@
 | [BEG-09](#BEG-09)            | [Parallel Park 3](1_beginner/BEG-09_Parallel-Park-3.llsp3)                                      | BEGINNER       |
 | [BEG-10](#BEG-10)            | [Maze 2](1_beginner/BEG-10_Maze-2.llsp3)                                                        | BEGINNER       |
 | [BEG-11](#BEG-11)            | [Escape of the Walls 1](1_beginner/BEG-11_Escape-of-the-Walls-1.llsp3)                          | BEGINNER       |
-| [BEG-12](#BEG-12)            | [Escape of the Walls 2](1_beginner/BEG-12_Escape-of-the-Walls-2.llsp3)                          | BEGINNER       |
+| [BEG-12](###BEG-12)            | [Escape of the Walls 2](1_beginner/BEG-12_Escape-of-the-Walls-2.llsp3)                          | BEGINNER       |
 | [BEG-13](#BEG-13)            | [Freeform Maze](1_beginner/BEG-13_Freeform-Maze.llsp3)                                          | BEGINNER       |
 | [BEG-EXIT](#BEG-EXIT)        | [EXIT: Crane Sort](2_intermediate/BEG-EXIT_Crane-Sort.llsp3)                                    | BEGINNER       |
 
