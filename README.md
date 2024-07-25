@@ -1,33 +1,33 @@
 # First LEGO®️ League (FLL) Robotics
 ## Curriculum Modules
 
-### Beginner Modules
+### BEGINNER MODULES
 <tabcaption>
-<i><b>Table 1.</b> List of beginner curriculum modules.</i>
+<i><b>Table 1.</b> List of thirteen (13) beginner curriculum modules.</i>
 </tabcaption>
 
 | module_ID                    | module_name                                                                                     | training_level |
 |:-----------------------------|:------------------------------------------------------------------------------------------------|:---------------|
 | [BEG-00](#BEG-00)            | [Driving Base Build](1_beginner/BEG-00_Driving-Base-Build.pdf)                                  | BEGINNER       |
 | [BEG-01](#BEG-01)            | [Perimeter Square](1_beginner/BEG-01_Perimeter-Square.llsp3)                                    | BEGINNER       |
-| [BEG-02](#BEG-03)            | [Black & White (B&W) Stop-n-Go](1_beginner/BEG-03_B&W-Stop-n-Go.llsp3)                          | BEGINNER       |
-| [BEG-03](#BEG-04)            | [Red Green Blue (RGB) Speed Variation](1_beginner/BEG-04_RGB-Speed-Variation.llsp3)             | BEGINNER       |
-| [BEG-04](#BEG-02)            | [Perimeter Forward (FWD)](1_beginner/BEG-02_Perimeter-FWD.llsp3)                                | BEGINNER       |
+| [BEG-02](#BEG-02)            | [Black & White (B&W) Stop-n-Go](1_beginner/BEG-02_B&W-Stop-n-Go.llsp3)                          | BEGINNER       |
+| [BEG-03](#BEG-03)            | [Red Green Blue (RGB) Speed Variation](1_beginner/BEG-03_RGB-Speed-Variation.llsp3)             | BEGINNER       |
+| [BEG-04](#BEG-04)            | [Perimeter Forward (FWD)](1_beginner/BEG-04_Perimeter-FWD.llsp3)                                | BEGINNER       |
 | [BEG-05](#BEG-05)            | [Perimeter Force](1_beginner/BEG-05_Perimeter-Force.llsp3)                                      | BEGINNER       |
 | [BEG-06](#BEG-06)            | [Parallel Park 1](1_beginner/BEG-06_Parallel-Park-1.llsp3)                                      | BEGINNER       |
 | [BEG-A-T](#BEG-A-T)          | [TUT: If Statements](1_beginner/BEG-A-T_If-Then-Statements.llsp3)                               | BEGINNER       |
-| [BEG-07](#BEG-07)            | [Maze 1](1_beginner/BEG-09_Maze-1.llsp3)                                                        | BEGINNER       |
-| [BEG-08](#BEG-08)            | [Parallel Park 2](1_beginner/BEG-10_Parallel-Park-2.llsp3)                                      | BEGINNER       |
-| [BEG-09](#BEG-09)            | [Parallel Park 3](1_beginner/BEG-11_Parallel-Park-3.llsp3)                                      | BEGINNER       |
-| [BEG-10](#BEG-10)            | [Maze 2](1_beginner/BEG-12_Maze-2.llsp3)                                                        | BEGINNER       |
-| [BEG-11](#BEG-11)            | [Escape of the Walls 1](1_beginner/BEG-07_Escape-of-the-Walls-1.llsp3)                          | BEGINNER       |
-| [BEG-12](#BEG-12)            | [Escape of the Walls 2](1_beginner/BEG-08_Escape-of-the-Walls-2.llsp3)                          | BEGINNER       |
+| [BEG-07](#BEG-07)            | [Maze 1](1_beginner/BEG-07_Maze-1.llsp3)                                                        | BEGINNER       |
+| [BEG-08](#BEG-08)            | [Parallel Park 2](1_beginner/BEG-08_Parallel-Park-2.llsp3)                                      | BEGINNER       |
+| [BEG-09](#BEG-09)            | [Parallel Park 3](1_beginner/BEG-09_Parallel-Park-3.llsp3)                                      | BEGINNER       |
+| [BEG-10](#BEG-10)            | [Maze 2](1_beginner/BEG-10_Maze-2.llsp3)                                                        | BEGINNER       |
+| [BEG-11](#BEG-11)            | [Escape of the Walls 1](1_beginner/BEG-11_Escape-of-the-Walls-1.llsp3)                          | BEGINNER       |
+| [BEG-12](#BEG-12)            | [Escape of the Walls 2](1_beginner/BEG-12_Escape-of-the-Walls-2.llsp3)                          | BEGINNER       |
 | [BEG-13](#BEG-13)            | [Freeform Maze](1_beginner/BEG-13_Freeform-Maze.llsp3)                                          | BEGINNER       |
 | [BEG-EXIT](#BEG-EXIT)        | [EXIT: Crane Sort](2_intermediate/BEG-EXIT_Crane-Sort.llsp3)                                    | BEGINNER       |
 
-### Intermediate Modules
+### INTERMEDIATE MODULES
 <tabcaption>
-<i><b>Table 2.</b> List of intermediate curriculum modules.</i>
+<i><b>Table 2.</b> List of twelve (12) intermediate curriculum modules.</i>
 </tabcaption>
 
 | module_ID                    | module_name                                                                                     | training_level |
@@ -50,9 +50,9 @@
 | [INT-12](#INT-12)            | [Guided Mission](2_intermediate/INT-12_Guided-Mission.llsp3)                                    | INTERMEDIATE   |
 | [INT-EXIT](#INT-EXIT)        | [EXIT: First LEGO®️ League (FLL) Mission](2_intermediate/INT-EXIT_FLL-Mission.llsp3)             | INTERMEDIATE   |
 
-### Advanced Modules
+### ADVANCED MODULES
 <tabcaption>
-<i><b>Table 3.</b> List of advanced curriculum modules.</i>
+<i><b>Table 3.</b> List of eighteen (18) advanced curriculum modules.</i>
 </tabcaption>
 
 | module_ID                    | module_name                                                                                     | training_level |
