@@ -412,7 +412,7 @@ In this program, students will learn to program the driving base to navigate wit
 
 2. **Program driving base Movement:**
    - The driving base will continuously move forward until it detects a wall using the ultrasonic distance sensor. Upon detecting a wall, it will:
-     - Turn on the spot clockwise by 90 degrees.
+     - Turn on the spot counter-clockwise by 90 degrees.
      - Move forward again until it detects another wall.
      - Repeat these action until the driving base returns to its original position, then loop around the space once more
 
@@ -434,7 +434,7 @@ In this program, students will learn to program the driving base to navigate wit
 
 2. **Detect Wall and Turn:**
    - When the distance sensor detects a wall, the driving base will:
-     - Turn on the spot clockwise by 90 degrees.
+     - Turn on the spot counter-clockwise by 90 degrees.
      - Move forward until it detects another wall.
 
 3. **Repeat Turning and Moving:**
@@ -443,11 +443,52 @@ In this program, students will learn to program the driving base to navigate wit
 4. **Repeat Previous Movement:**
    - Repeat the driving base’s previous movement so that it returns to its original position once more.
 
-
-By the end of this module, students will have developed skills in nesting loops, sensor-based decision-making, and iterative programming techniques. They will gain practical experience in applying loops and `if` statements to navigate complex environments.
+By the end of this module, students will have developed skills in nesting loops, sensor-based decision-making, and iterative programming techniques. They will gain practical experience in applying loops and 'if' statements to navigate complex environments.
 
 ### BEG-12 - Escape of the Walls 2
-Building on the previous module, students refine their programming skills to navigate more complex enclosed spaces. They develop strategies for different decision patterns using nested "wait until" blocks.
+In this program, students will learn to program the driving base to navigate within a confined space and escape from enclosed areas using force sensor-based decision-making. This module reinforces basic navigation skills and introduces simple nested loops.
+
+#### Objectives:
+
+1. **Understand Navigation Within Enclosed Spaces:**
+   - Students will learn to navigate an enclosed space with various walls of storage bins. The driving base must follow a series of programmed steps to loop around the space while avoiding the walls.
+
+2. **Program Driving Base Movement:**
+   - The driving base will continuously move forward until it bumps into a wall using the force sensor. Upon encountering a wall, it will:
+     - Move backwards straight for half a wheel rotation.
+     - Turn on the spot counter-clockwise by 90 degrees.
+     - Move forward again until it encounters another wall.
+     - Repeat these actions until the driving base returns to its original position, then loop around the space once more.
+
+3. **Use of Nested Loops:**
+   - Implement `nested` loops to repeat larger sets of actions:
+     - **Loop** the forwards, backwards, and turning movements upon encountering a wall to move in a full square.
+     - **Loop** the former loop of moving in a square to repeat the action and cycle through the square again.
+
+4. **Implement Iterative Problem-Solving:**
+   - Use loops to repeat the movement and turning actions. This involves programming the driving base to keep moving forward and adjusting its direction when necessary based on the sensor feedback.
+
+5. **Sequential Movement Commands:**
+   - Ensure that the driving base performs the correct sequence of actions: moving forward, moving backwards, turning, and repeating. Ensure that the movement is looped correctly such that the base moves throughout the square only 2 times.
+
+#### Example Workflow:
+
+1. **Start Moving Forward:**
+   - The driving base begins by moving forward continuously.
+
+2. **Detect Wall, Move Backwards, and Turn:**
+   - When the force sensor detects a wall, the driving base will:
+     - Move backwards straight for half a wheel rotation.
+     - Turn on the spot counter-clockwise by 90 degrees.
+     - Move forward until it encounters another wall.
+
+3. **Repeat Moving Backwards, Turning, and Moving Forward:**
+   - Repeat the moving backwards, turning, and moving forward steps until the driving base returns to its original position.
+
+4. **Repeat Previous Movement:**
+   - Repeat the driving base’s previous movement so that it returns to its original position once more.
+
+By the end of this module, students will have developed skills in nesting loops, sensor-based decision-making, and iterative programming techniques. They will gain practical experience in applying loops and 'if' statements to navigate complex environments.
 
 ### BEG-13 - Freeform Maze
 Students apply their programming skills to navigate custom-made mazes with irregular shapes and obstacles. This module enhances adaptability, problem-solving, and creativity using loops, variables, and advanced decision-making.
