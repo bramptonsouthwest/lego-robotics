@@ -85,7 +85,8 @@
 
 ## BEGINNER MODULES
 
-### BEG-00 - Driving Base Build
+### BEG-00 
+#### Driving Base Build
 
 In this foundational module, students will focus on constructing a robust and reliable driving base (robot car). This driving base serves as the platform for all future modules, making it crucial to ensure it is built with structural integrity, proper motor placement, and optimal wheel configurations.
 
