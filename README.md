@@ -109,7 +109,8 @@ In this foundational module, students will focus on constructing a robust and re
 
 By the end of this module, students will have constructed a solid driving base that serves as the foundation for their driving baseic projects. This module not only teaches essential building skills but also highlights the importance of a well-designed base for achieving optimal driving base performance.
 
-### BEG-01 - Perimeter Square
+### BEG-01 
+#### Perimeter Square
 
 In this module, students will program the driving base to move in the shape of a square along the perimeter of a 34" x 34" table using blue Motor blocks. This activity emphasizes basic movement commands and spatial navigation, providing a strong foundation for understanding driving base motion and control.
 
@@ -513,130 +514,172 @@ An exit module where students demonstrate their understanding of crane sorting c
 
 ## Intermediate Modules
 
-### INT-A-T - TUT: Nested If Statements
+### INT-A-T 
+#### TUT: Nested If Statements
 This tutorial delves into nested if statements, enabling students to create more complex conditional logic structures for advanced programming tasks. It builds on the foundational if statements introduced earlier.
 
-### INT-B-T - TUT: Steering
+### INT-B-T 
+#### TUT: Steering
 Students learn about steering mechanisms and how to implement them in their programs for executing precise and calculated turns. They apply nested "wait until" blocks and loops for controlled movement.
 
-### INT-00 - Plow Build
+### INT-00 
+#### Plow Build
 Guides students through constructing a plow attachment, emphasizing mechanical design and attachment building skills. It integrates motor control with precise movement commands and introduces variables for speed adjustments.
 
-### INT-01 - Sorting Machine 1
+### INT-01 
+#### Sorting Machine 1
 Students explore basic sorting algorithms by programming the driving base to sort objects based on predefined criteria such as color. They utilize sequential commands and "wait until" blocks for condition checks.
 
-### INT-02 - Sorting Machine 2
+### INT-02 
+#### Sorting Machine 2
 Building on Sorting Machine 1, this module challenges students to implement more sophisticated sorting algorithms. They develop algorithms using loops and variables to handle complex sorting tasks efficiently.
 
-### INT-03 - Line Follow 1
+### INT-03 
+#### Line Follow 1
 Students delve into line-following algorithms, programming the driving base to follow lines of varying shapes and colors using light sensors. They apply iterative movement commands and basic loop structures.
 
-### INT-C-T - TUT: Gyroscope (Gyro) Sensor
+### INT-C-T 
+#### TUT: Gyroscope (Gyro) Sensor
 Introduces students to the gyro sensor for precise navigation and orientation control in their driving bases. They learn to integrate gyro data with movement commands and apply nested "wait until" blocks for controlled navigation.
 
-### INT-04 - Gyro 1
+### INT-04 
+#### Gyro 1
 Students integrate gyro sensor data into their driving base's control system, enhancing navigation accuracy. They apply advanced gyro control techniques with nested loops for precise turns and movement adjustments.
 
-### INT-05 - Line Follow 2
+### INT-05 
+#### Line Follow 2
 Building upon Line Follow 1, this module challenges students with more complex line-following scenarios. They refine their programming skills with advanced sensor integration and decision-making using nested loops and conditionals.
 
-### INT-06 - Line Follow 3
+### INT-06 
+#### Line Follow 3
 Continuing from Line Follow 2, students tackle advanced line-following challenges such as intersections and loops. They apply complex algorithms using nested loops, variables for speed control, and conditionals for adaptive navigation.
 
-### INT-07 - Gyro 2
+### INT-07 
+#### Gyro 2
 Students delve deeper into gyro sensor integration, exploring advanced techniques for precise turning, heading correction, and navigation control. They apply nested loops and conditionals for advanced driving baseic maneuvers.
 
-### INT-08 - Gyro 3
+### INT-08 
+#### Gyro 3
 Building on Gyro 2, this module challenges students with complex navigation tasks such as following curved paths and navigating obstacle courses. They apply sophisticated algorithms using nested loops, variables, and conditionals for adaptive navigation.
 
-### INT-09 - Training Camp 1
+### INT-09 
+#### Training Camp 1
 The first in a series of training camp modules focusing on practical exercises to reinforce programming concepts and driving base control skills. It integrates basic to intermediate programming skills with structured challenges.
 
-### INT-10 - Training Camp 2
+### INT-10 
+#### Training Camp 2
 Continuing from Training Camp 1, this module offers more challenging exercises to further enhance students' programming proficiency and problem-solving abilities. It includes advanced navigation tasks using nested loops and conditionals.
 
-### INT-11 - Training Camp 3
+### INT-11 
+#### Training Camp 3
 The final installment of the training camp series, providing comprehensive challenges to test students' programming skills and creativity. It integrates all previously learned concepts into complex driving baseic missions using advanced programming techniques.
 
-### INT-12 - Guided Mission
+### INT-12 
+#### Guided Mission
 Students apply their programming knowledge to complete specific tasks and achieve predefined objectives in a guided mission. They demonstrate proficiency in advanced driving baseic maneuvers using loops, variables, and conditionals.
 
-### INT-EXIT - EXIT: First LEGO®️ League (FLL) Mission
+### INT-EXIT 
+#### EXIT: First LEGO®️ League (FLL) Mission
 An exit module indicating completion of intermediate-level training. Students demonstrate readiness for advanced challenges by completing a guided FLL mission. It tests their ability to apply advanced programming concepts in real-world scenarios.
 
 ## Advanced Modules
 
-### ADV-A-T - TUT: Introduction to MicroPython 1
+### ADV-A-T 
+#### TUT: Introduction to MicroPython 1
 Introduces students to MicroPython programming for LEGO SPIKE Prime, covering basic syntax, variables, and control structures. It lays the foundation for advanced programming techniques in MicroPython.
 
-### ADV-B-T - TUT: Introduction to MicroPython 2
+### ADV-B-T 
+#### TUT: Introduction to MicroPython 2
 Building on Introduction to MicroPython 1, this module dives deeper into MicroPython concepts including functions, modules, and advanced data types. Students apply their knowledge to develop more complex programs.
 
-### ADV-C-T - TUT: Controlling Motors
+### ADV-C-T 
+#### TUT: Controlling Motors
 Students learn advanced motor control techniques in SPIKE Prime such as PID control, synchronized movement, and complex motion profiles. They apply these techniques to create precise and efficient driving baseic movements.
 
-### ADV-D-T - TUT: Sensor Integration
+### ADV-D-T 
+#### TUT: Sensor Integration
 Students learn to integrate various sensors with SPIKE Prime including gyroscopes, color sensors, and ultrasonic (distance) sensors for advanced driving baseic applications. They develop sensor fusion techniques to enhance driving base navigation and interaction capabilities.
 
-### ADV-E-T - TUT: Custom Functions and Variables
+### ADV-E-T 
+#### TUT: Custom Functions and Variables
 Students learn to create custom functions and variables in SPIKE Prime to streamline their code, improve readability, and enhance code maintainability. They apply these skills to develop modular and efficient driving baseic programs.
 
-### ADV-F-T - TUT: Loops and Logic Structures
+### ADV-F-T 
+#### TUT: Loops and Logic Structures
 This module covers advanced loop structures and logical operations in SPIKE Prime, enabling students to write more efficient and complex programs. They apply nested loops and conditionals for adaptive driving baseic behaviors.
 
-### ADV-01 - Perimeter Square
+### ADV-01 
+#### Perimeter Square
 Students program the driving base to move in the shape of a square using Motor blocks. They apply advanced movement commands and precision control techniques to achieve accurate geometric shapes.
 
-### ADV-02 - Perimeter Forward (FWD)
+### ADV-02 
+#### Perimeter Forward (FWD)
 Program the driving base to move forward until it detects an obstacle using ultrasonic (distance) sensors. Students refine their sensor integration skills and apply advanced navigation algorithms for obstacle avoidance.
 
-### ADV-03 - Black & White (B&W) Stop-n-Go
+### ADV-03 
+#### Black & White (B&W) Stop-n-Go
 This module teaches students to program the driving base to stop and go based on detecting black and white surfaces. They apply advanced line-following techniques using nested "wait until" blocks for adaptive navigation.
 
-### ADV-04 - Red Green Blue (RGB) Speed Variation
+### ADV-04 
+#### Red Green Blue (RGB) Speed Variation
 Students explore programming the driving base to adjust its speed based on detecting colors using color sensors. They develop algorithms for dynamic speed control and apply variables for color recognition and speed adjustment.
 
-### ADV-05 - Perimeter Force
+### ADV-05 
+#### Perimeter Force
 Program the driving base to move until it encounters a force, simulating interactions with physical objects in its environment. Students apply advanced force sensor integration and develop algorithms for responsive driving base behaviors.
 
-### ADV-06 - Parallel Park 1
+### ADV-06 
+#### Parallel Park 1
 This module introduces the concept of parallel parking, teaching students how to program the driving base to maneuver into tight spaces using precise movements. They apply advanced spatial awareness and motor control techniques.
 
-### ADV-07 - Escape of the Walls 1
+### ADV-07 
+#### Escape of the Walls 1
 Students program the driving base to navigate within a constrained space and escape from enclosed areas using sensor-based decision-making. They develop strategies for dynamic path planning and adaptive navigation using nested loops.
 
-### ADV-08 - Escape of the Walls 2
+### ADV-08 
+#### Escape of the Walls 2
 Building upon Escape of the Walls 1, students further refine their programming skills to navigate more complex enclosed spaces with varying decision patterns. They apply advanced decision-making algorithms using nested loops and conditionals.
 
-### ADV-09 - Maze 1
+### ADV-09 
+#### Maze 1
 Introduction to maze-solving algorithms where students program the driving base to navigate through predefined mazes using ultrasonic (distance) sensors. They develop advanced pathfinding algorithms using loops, variables, and conditionals.
 
-### ADV-10 - Parallel Park 2
+### ADV-10 
+#### Parallel Park 2
 An advanced parallel parking module challenging students to program the driving base to navigate into even tighter spaces with greater precision. They apply advanced spatial awareness and motor control techniques using nested loops and conditionals.
 
-### ADV-11 - Parallel Park 3
+### ADV-11 
+#### Parallel Park 3
 Continuing from Parallel Park 2, students tackle more complex parallel parking scenarios. They refine their programming skills with advanced spatial awareness and precise maneuvering using nested loops and conditionals.
 
-### ADV-12 - Maze 2
+### ADV-12 
+#### Maze 2
 Building upon Maze 1, students explore more intricate maze structures and hone their algorithmic problem-solving abilities. They apply sophisticated pathfinding algorithms using loops, variables, and conditionals for adaptive navigation.
 
-### ADV-13 - Freeform Maze
+### ADV-13 
+#### Freeform Maze
 Students apply their programming skills to navigate custom-made mazes with irregular shapes and obstacles. This module enhances adaptability, problem-solving, and creativity using loops, variables, and advanced decision-making.
 
-### ADV-EXIT - EXIT: Crane Sort
+### ADV-EXIT 
+#### EXIT: Crane Sort
 An exit module indicating completion of advanced-level training, where students demonstrate their understanding of crane sorting concepts through practical implementation. It tests their ability to apply advanced programming concepts to real-world scenarios.
 
-### ADV-14 - SPIKE Prime robotics Challenges: Part 1
+### ADV-14 
+#### SPIKE Prime robotics Challenges: Part 1
 Students engage in challenging robotics tasks and missions designed to test their problem-solving skills and creativity using SPIKE Prime. They apply comprehensive programming techniques including loops, variables, and conditionals.
 
-### ADV-15 - SPIKE Prime robotics Challenges: Part 2
+### ADV-15 
+#### SPIKE Prime robotics Challenges: Part 2
 Continuing from Part 1, this module offers more complex challenges and missions for students to tackle, further enhancing their robotics capabilities. They apply advanced programming skills to solve intricate driving baseic tasks using SPIKE Prime.
 
-### ADV-16 - SPIKE Prime robotics Challenges: Part 3
+### ADV-16 
+#### SPIKE Prime robotics Challenges: Part 3
 The final installment of the robotics challenges series, providing students with the most advanced and intricate missions to showcase their skills. They demonstrate mastery of advanced programming concepts through complex driving baseic tasks using SPIKE Prime.
 
-### ADV-17 - Data Logging and Analysis
+### ADV-17 
+#### Data Logging and Analysis
 Students learn to collect and analyze data from sensors in SPIKE Prime, enabling them to make informed decisions and optimizations in their driving baseic projects. They develop data logging algorithms using loops, variables, and conditionals for data-driven insights.
 
-### ADV-18 - Wireless Communication and Remote Control
+### ADV-18 
+#### Wireless Communication and Remote Control
 This module explores wireless communication protocols and methods for remote controlling SPIKE Prime driving bases. Students develop collaborative and interactive projects using advanced communication techniques and apply them in real-time driving baseic scenarios.
