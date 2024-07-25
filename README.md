@@ -129,7 +129,8 @@ In this module, students will program the driving base to move in the shape of a
 
 By the end of this module, students will have a solid understanding of basic movement commands and the use of loops for repetitive actions. This module will also enhance their spatial awareness and ability to control the driving base's navigation accurately.
 
-### BEG-02 - Black & White (B&W) Stop-n-Go
+### BEG-02 
+#### Black & White (B&W) Stop-n-Go
 
 In this module, students will learn how to program a driving base to stop and go based on detecting black and white surfaces. This activity introduces the fundamental concept of line detection and involves repetitive movement using simple "wait until" blocks.
 
@@ -153,7 +154,8 @@ In this module, students will learn how to program a driving base to stop and go
 
 By the end of this module, students will have a solid understanding of basic line-following techniques and sensor-based control. This foundation will be essential for tackling more advanced robotics programming tasks in future modules.
 
-### BEG-03 - Red Green Blue (RGB) Speed Variation
+### BEG-03 
+#### Red Green Blue (RGB) Speed Variation
 
 In this module, students will learn how to program a driving base to adjust its speed based on the colors it detects using color sensors. This activity provides an introduction to sensor-based control systems and the use of basic variables for making dynamic adjustments to the driving base's behavior.
 
@@ -179,7 +181,8 @@ In this module, students will learn how to program a driving base to adjust its 
 
 By the end of this module, students will have developed a solid understanding of how to use sensors to influence the driving base's speed and behavior. They will also be comfortable working with variables to make real-time adjustments, laying the groundwork for more complex sensor-based programming tasks in future modules.
 
-### BEG-04 - Perimeter Forward (FWD)
+### BEG-04 
+#### Perimeter Forward (FWD)
 
 In this module, students will program their driving base to move forward until it detects an obstacle using ultrasonic (distance) sensors. This activity introduces basic sensor-based navigation and teaches students how to integrate sensor feedback into their driving base's movement, making it suitable for controlled environments.
 
@@ -205,7 +208,8 @@ In this module, students will program their driving base to move forward until i
 
 By the end of this module, students will have a solid understanding of how to integrate ultrasonic (distance) sensors with motor commands to create a responsive driving base capable of navigating around obstacles. This activity lays the groundwork for more complex sensor-based navigation tasks in future modules.
 
-### BEG-05 - Perimeter Force
+### BEG-05 
+#### Perimeter Force
 
 In this module, students will program their driving base to move forward until it encounters a force by bumping into a wall, simulating interactions with physical objects in its environment. This activity introduces the use of Movement (magenta) blocks and force sensors, enhancing students' understanding of sensor-based control systems.
 
@@ -231,7 +235,8 @@ In this module, students will program their driving base to move forward until i
 
 By the end of this module, students will have a solid understanding of how to integrate force sensors with motor commands to create a responsive driving base capable of detecting and reacting to physical obstacles. This activity lays the groundwork for more complex sensor-based navigation tasks in future modules.
 
-### BEG-06 - Parallel Park 1
+### BEG-06 
+#### Parallel Park 1
 
 In this module, students will learn the fundamentals of parallel parking by programming their driving base to fit into a parking space between two blue lines. This activity teaches precise control of the driving base's movements and introduces students to concepts such as turning and reversing based on sensor input.
 
@@ -257,7 +262,8 @@ In this module, students will learn the fundamentals of parallel parking by prog
 
 By the end of this module, students will gain experience in programming precise movements and utilizing sensors for navigation tasks. They will develop a better understanding of how to execute complex maneuvers, such as parallel parking, which is essential for more advanced robotics challenges.
 
-### BEG-A-T - TUT: If Statements
+### BEG-A-T 
+#### TUT: If Statements
 
 This tutorial introduces the concept of "if statements," which are essential for making decisions in programming. Using if statements allows the driving base to perform different actions based on the conditions it encounters, providing a foundation for conditional programming.
 
@@ -291,7 +297,8 @@ This tutorial introduces the concept of "if statements," which are essential for
 
 By the end of this tutorial, students will gain a solid understanding of if statements and how to use them for conditional programming. They will learn how to create programs that make decisions based on sensor inputs, an essential skill for more complex robotics challenges.
 
-### BEG-07 - Maze 1
+### BEG-07 
+#### Maze 1
 
 In this module, students will learn how to program the driving base to navigate through a maze using ultrasonic distance sensors and color sensors. This activity introduces maze-solving algorithms and emphasizes the use of `if` statements for decision-making. Students will program the driving base to follow a specific sequence to escape the maze, focusing on iterative problem-solving with loops and sequential movement commands.
 
@@ -342,7 +349,8 @@ In this module, students will learn how to program the driving base to navigate 
 
 By the end of this module, students will have developed skills in maze-solving algorithms, sensor-based decision-making, and iterative programming techniques. They will gain practical experience in applying loops and `if` statements to navigate complex environments.
 
-### BEG-08 - Parallel Park 2
+### BEG-08 
+#### Parallel Park 2
 
 In this module, students will advance their skills in parallel parking by programming the driving base to park accurately between two blue lines. This module builds on the fundamentals of parallel parking introduced in previous lessons, with a focus on precise maneuvers and sensor-based adjustments.
 
@@ -397,13 +405,16 @@ In this module, students will advance their skills in parallel parking by progra
 
 By the end of this module, students will have honed their ability to program the driving base for precise parking maneuvers. They will gain practical experience in integrating multiple sensors and executing a series of programmed steps to achieve accurate results.
 
-### BEG-09 - Parallel Park 3
+### BEG-09 
+#### Parallel Park 3
 Continuing from the previous module, students tackle more complex parallel parking scenarios. They refine their programming skills with advanced spatial awareness and precise maneuvering using nested loops and condition checks.
 
-### BEG-10 - Maze 2
+### BEG-10 
+#### Maze 2
 Building upon Maze 1, students explore more intricate maze structures and hone their algorithmic problem-solving abilities. They apply advanced strategies using loops, variables for pathfinding, and conditionals for decision-making.
 
-### BEG-11 - Escape of the Walls 1
+### BEG-11 
+#### Escape of the Walls 1
 In this program, students will learn to program the driving base to navigate within a confined space and escape from enclosed areas using ultrasonic (distance) sensor-based decision-making. This module reinforces basic navigation skills and introduces simple nested  loops.
 
 #### Objectives:
@@ -446,7 +457,8 @@ In this program, students will learn to program the driving base to navigate wit
 
 By the end of this module, students will have developed skills in nesting loops, sensor-based decision-making, and iterative programming techniques. They will gain practical experience in applying loops and 'if' statements to navigate complex environments.
 
-### BEG-12 - Escape of the Walls 2
+### BEG-12 
+#### Escape of the Walls 2
 In this program, students will learn to program the driving base to navigate within a confined space and escape from enclosed areas using force sensor-based decision-making. This module reinforces basic navigation skills and introduces simple nested loops.
 
 #### Objectives:
@@ -491,10 +503,12 @@ In this program, students will learn to program the driving base to navigate wit
 
 By the end of this module, students will have developed skills in nesting loops, sensor-based decision-making, and iterative programming techniques. They will gain practical experience in applying loops and 'if' statements to navigate complex environments.
 
-### BEG-13 - Freeform Maze
+### BEG-13 
+#### Freeform Maze
 Students apply their programming skills to navigate custom-made mazes with irregular shapes and obstacles. This module enhances adaptability, problem-solving, and creativity using loops, variables, and advanced decision-making.
 
-### BEG-EXIT - EXIT: Crane Sort
+### BEG-EXIT 
+#### EXIT: Crane Sort
 An exit module where students demonstrate their understanding of crane sorting concepts through practical implementation. It tests their ability to apply basic programming concepts to real-world scenarios.
 
 ## Intermediate Modules
