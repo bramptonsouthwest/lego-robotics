@@ -511,60 +511,77 @@ Students apply their programming skills to navigate custom-made mazes with irreg
 #### EXIT: Crane Sort
 An exit module where students demonstrate their understanding of crane sorting concepts through practical implementation. It tests their ability to apply basic programming concepts to real-world scenarios.
 
-## Intermediate Modules
+## INTERMEDIATE MODULES
 
-### INT-A-T - TUT: Nested If Statements
+### INT-A-T
+#### TUT: Nested If Statements
 This tutorial delves into nested if statements, enabling students to create more complex conditional logic structures for advanced programming tasks. It builds on the foundational if statements introduced earlier.
 
-### INT-B-T - TUT: Steering
+### INT-B-T
+#### TUT: Steering
 Students learn about steering mechanisms and how to implement them in their programs for executing precise and calculated turns. They apply nested "wait until" blocks and loops for controlled movement.
 
-### INT-00 - Plow Build
+### INT-00
+#### Plow Build
 Guides students through constructing a plow attachment, emphasizing mechanical design and attachment building skills. It integrates motor control with precise movement commands and introduces variables for speed adjustments.
 
-### INT-01 - Sorting Machine 1
+### INT-01
+#### Sorting Machine 1
 Students explore basic sorting algorithms by programming the driving base to sort objects based on predefined criteria such as color. They utilize sequential commands and "wait until" blocks for condition checks.
 
-### INT-02 - Sorting Machine 2
+### INT-02
+#### Sorting Machine 2
 Building on Sorting Machine 1, this module challenges students to implement more sophisticated sorting algorithms. They develop algorithms using loops and variables to handle complex sorting tasks efficiently.
 
-### INT-03 - Line Follow 1
+### INT-03
+#### Line Follow 1
 Students delve into line-following algorithms, programming the driving base to follow lines of varying shapes and colors using light sensors. They apply iterative movement commands and basic loop structures.
 
-### INT-C-T - TUT: Gyroscope (Gyro) Sensor
+### INT-C-T
+#### TUT: Gyroscope (Gyro) Sensor
 Introduces students to the gyro sensor for precise navigation and orientation control in their driving bases. They learn to integrate gyro data with movement commands and apply nested "wait until" blocks for controlled navigation.
 
-### INT-04 - Gyro 1
+### INT-04
+#### Gyro 1
 Students integrate gyro sensor data into their driving base's control system, enhancing navigation accuracy. They apply advanced gyro control techniques with nested loops for precise turns and movement adjustments.
 
-### INT-05 - Line Follow 2
+### INT-05
+#### Line Follow 2
 Building upon Line Follow 1, this module challenges students with more complex line-following scenarios. They refine their programming skills with advanced sensor integration and decision-making using nested loops and conditionals.
 
-### INT-06 - Line Follow 3
+### INT-06
+#### Line Follow 3
 Continuing from Line Follow 2, students tackle advanced line-following challenges such as intersections and loops. They apply complex algorithms using nested loops, variables for speed control, and conditionals for adaptive navigation.
 
-### INT-07 - Gyro 2
+### INT-07
+#### Gyro 2
 Students delve deeper into gyro sensor integration, exploring advanced techniques for precise turning, heading correction, and navigation control. They apply nested loops and conditionals for advanced driving baseic maneuvers.
 
-### INT-08 - Gyro 3
+### INT-08
+#### Gyro 3
 Building on Gyro 2, this module challenges students with complex navigation tasks such as following curved paths and navigating obstacle courses. They apply sophisticated algorithms using nested loops, variables, and conditionals for adaptive navigation.
 
-### INT-09 - Training Camp 1
+### INT-09
+#### Training Camp 1
 The first in a series of training camp modules focusing on practical exercises to reinforce programming concepts and driving base control skills. It integrates basic to intermediate programming skills with structured challenges.
 
-### INT-10 - Training Camp 2
+### INT-10
+#### Training Camp 2
 Continuing from Training Camp 1, this module offers more challenging exercises to further enhance students' programming proficiency and problem-solving abilities. It includes advanced navigation tasks using nested loops and conditionals.
 
-### INT-11 - Training Camp 3
+### INT-11
+#### Training Camp 3
 The final installment of the training camp series, providing comprehensive challenges to test students' programming skills and creativity. It integrates all previously learned concepts into complex driving baseic missions using advanced programming techniques.
 
-### INT-12 - Guided Mission
+### INT-12
+#### Guided Mission
 Students apply their programming knowledge to complete specific tasks and achieve predefined objectives in a guided mission. They demonstrate proficiency in advanced driving baseic maneuvers using loops, variables, and conditionals.
 
-### INT-EXIT - EXIT: First LEGO®️ League (FLL) Mission
+### INT-EXIT
+#### EXIT: First LEGO®️ League (FLL) Mission
 An exit module indicating completion of intermediate-level training. Students demonstrate readiness for advanced challenges by completing a guided FLL mission. It tests their ability to apply advanced programming concepts in real-world scenarios.
 
-## Advanced Modules
+## ADVANCED MODULES
 
 ### ADV-A-T - TUT: Introduction to MicroPython 1
 Introduces students to MicroPython programming for LEGO SPIKE Prime, covering basic syntax, variables, and control structures. It lays the foundation for advanced programming techniques in MicroPython.
