@@ -22,8 +22,9 @@
 | [BEG-10](#BEG-10)            | [Maze 2](1_beginner/BEG-10_Maze-2.llsp3)                                                        | BEGINNER       |
 | [BEG-11](#BEG-11)            | [Escape of the Walls 1](1_beginner/BEG-11_Escape-of-the-Walls-1.llsp3)                          | BEGINNER       |
 | [BEG-12](#BEG-12)            | [Escape of the Walls 2](1_beginner/BEG-12_Escape-of-the-Walls-2.llsp3)                          | BEGINNER       |
+| [BEG-B-T](#BEG-B-T)          | [TUT: Steering](1_beginner/INT-B-T_Steering.llsp3)                                              | BEGINNER       |
 | [BEG-13](#BEG-13)            | [Freeform Maze](1_beginner/BEG-13_Freeform-Maze.llsp3)                                          | BEGINNER       |
-| [BEG-EXIT](#BEG-EXIT)        | [EXIT: Crane Sort](2_intermediate/BEG-EXIT_Crane-Sort.llsp3)                                    | BEGINNER       |
+| [BEG-EXIT](#BEG-EXIT)        | [EXIT: Crane Sort](1_beginner/BEG-EXIT_Crane-Sort.llsp3)                                        | BEGINNER       |
 
 ### INTERMEDIATE MODULES
 <tabcaption>
@@ -33,12 +34,11 @@
 | module_ID                    | module_name                                                                                     | training_level |
 |:-----------------------------|:------------------------------------------------------------------------------------------------|:---------------|
 | [INT-A-T](#INT-A-T)          | [TUT: Nested If Statements](2_intermediate/INT-A-T_Nested-If-Statements.llsp3)                  | INTERMEDIATE   |
-| [INT-B-T](#INT-B-T)          | [TUT: Steering](2_intermediate/INT-B-T_Steering.llsp3)                                          | INTERMEDIATE   |
 | [INT-00](#INT-00)            | [Plow Build](2_intermediate/INT-00_Plow-Build.pdf)                                              | INTERMEDIATE   |
 | [INT-01](#INT-01)            | [Sorting Machine 1](2_intermediate/INT-01_Sorting-Machine-1.llsp3)                              | INTERMEDIATE   |
 | [INT-02](#INT-02)            | [Sorting Machine 2](2_intermediate/INT-02_Sorting-Machine-2.llsp3)                              | INTERMEDIATE   |
 | [INT-03](#INT-03)            | [Line Follow 1](2_intermediate/INT-03_Line-Follow-1.llsp3)                                      | INTERMEDIATE   |
-| [INT-C-T](#INT-C-T)          | [TUT: Gyroscope Sensor](2_intermediate/INT-C-T_Gyro-Sensor.llsp3)                               | INTERMEDIATE   |
+| [INT-B-T](#INT-B-T)          | [TUT: Gyroscope Sensor](2_intermediate/INT-C-T_Gyro-Sensor.llsp3)                               | INTERMEDIATE   |
 | [INT-04](#INT-04)            | [Gyro 1](2_intermediate/INT-04_Gyroscope-1.llsp3)                                               | INTERMEDIATE   |
 | [INT-05](#INT-05)            | [Line Follow 2](2_intermediate/INT-05_Line-Follow-2.llsp3)                                      | INTERMEDIATE   |
 | [INT-06](#INT-06)            | [Line Follow 3](2_intermediate/INT-06_Line-Follow-3.llsp3)                                      | INTERMEDIATE   |
