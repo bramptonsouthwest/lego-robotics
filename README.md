@@ -111,7 +111,7 @@ By the end of this module, students will have constructed a solid driving base t
 
 ### BEG-01 - Perimeter Square
 
-In this module, students will program the driving base to move in the shape of a square along the perimeter of a 34" x 34" table using blue Motor blocks. This activity emphasizes basic movement commands and spatial navigation, providing a strong foundation for understanding driving base motion and control.
+In this module, students will program the driving base to move in the shape of a square along the perimeter of a 34" x 34" (86.36 cm x 86.36 cm) table using blue Motor blocks. This activity emphasizes basic movement commands and spatial navigation, providing a strong foundation for understanding driving base motion and control.
 
 **Objectives:**
 
