@@ -163,9 +163,9 @@ In this module, students will learn how to program a driving base to adjust its 
 
 1. **Assign Integer Values to Variables:**
    - **Color Detection and Speed Variables:** Students will create variables for each color detected by the driving base’s color sensor and assign specific integer values to these variables. For example:
-     - **Red Detection:** When the sensor detects the color red, an integer value, such as 3, is assigned to a variable representing the speed.
-     - **Green Detection:** When the sensor detects the color green, a different integer value, such as 6, is assigned to a speed variable.
-     - **Blue Detection:** When the sensor detects the color blue, another integer value, such as 9, is assigned to a speed variable.
+     - **Red Detection:** When the sensor detects the color red, an integer percentage value, such as 15, is assigned to a variable representing the speed.
+     - **Green Detection:** When the sensor detects the color green, a different integer value, such as 50, is assigned to a speed variable.
+     - **Blue Detection:** When the sensor detects the color blue, another integer value, such as 65, is assigned to a speed variable.
    - **Variable Usage:** These integer values will be used to control the driving base’s speed, allowing students to see how changing the values affects the driving base's performance.
 
 2. **Program Speed Adjustments:**
