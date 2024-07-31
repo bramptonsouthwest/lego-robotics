@@ -240,6 +240,10 @@ By the end of this module, students will have a solid understanding of how to in
 
 In this module, students will learn the fundamentals of parallel parking by programming their driving base to fit into a parking space between two blue lines. This activity teaches precise control of the driving base's movements and introduces students to concepts such as turning and reversing based on sensor input.
 
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="0_figures/Parallel-Park-1_Configuration.png" alt="Parallel-Park-1_Configuration" width="50%">
+</div>
+
 **Objectives:**
 
 1. **Program Forward Movement:**
