@@ -240,9 +240,13 @@ By the end of this module, students will have a solid understanding of how to in
 
 In this module, students will learn the fundamentals of parallel parking by programming their driving base to fit into a parking space between two blue lines. This activity teaches precise control of the driving base's movements and introduces students to concepts such as turning and reversing based on sensor input.
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="0_figures/Parallel-Park-1_Configuration.png" alt="Parallel-Park-1_Configuration" width="50%">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div align="center">
+  <img src="0_figures/Parallel-Park-1_Configuration.png" alt="Parallel-Park-1_Configuration" width="30%">
 </div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 **Objectives:**
 
@@ -358,6 +362,14 @@ By the end of this module, students will have developed skills in maze-solving a
 
 In this module, students will advance their skills in parallel parking by programming the driving base to park accurately between two blue lines. This module builds on the fundamentals of parallel parking introduced in previous lessons, with a focus on precise maneuvers and sensor-based adjustments.
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div align="center">
+  <img src="0_figures/Parallel-Park-2_Configuration.png" alt="Parallel-Park-2_Configuration" width="30%">
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 #### Objectives:
 
 1. **Program Forward Movement:**
@@ -412,6 +424,14 @@ By the end of this module, students will have honed their ability to program the
 ### BEG-09 
 #### Parallel Park 3
 Continuing from the previous module, students tackle more complex parallel parking scenarios. They refine their programming skills with advanced spatial awareness and precise maneuvering using nested loops and condition checks.
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div align="center">
+  <img src="0_figures/Parallel-Park-3_Configuration.png" alt="Parallel-Park-3_Configuration" width="30%">
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ### BEG-10 
 #### Maze 2
