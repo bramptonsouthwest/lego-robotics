@@ -441,6 +441,14 @@ Building upon Maze 1, students explore more intricate maze structures and hone t
 #### Escape of the Walls 1
 In this program, students will learn to program the driving base to navigate within a confined space and escape from enclosed areas using ultrasonic (distance) sensor-based decision-making. This module reinforces basic navigation skills and introduces simple nested  loops.
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div align="center">
+  <img src="0_figures/Escape-of-the-Walls-1-&-2_Configuration.png" alt="Escape-of-the-Walls-1-&-2_Configuration" width="30%">
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 #### Objectives:
 
 1. **Understand Navigation Within Enclosed Spaces:**
