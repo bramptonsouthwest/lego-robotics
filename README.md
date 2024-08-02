@@ -493,6 +493,14 @@ By the end of this module, students will have developed skills in nesting loops,
 #### Escape of the Walls 2
 In this program, students will learn to program the driving base to navigate within a confined space and escape from enclosed areas using force sensor-based decision-making. This module reinforces basic navigation skills and introduces simple nested loops.
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div align="center">
+  <img src="0_figures/Escape-of-the-Walls-1-&-2_Configuration.png" alt="Escape-of-the-Walls-1-&-2_Configuration" width="60%">
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 #### Objectives:
 
 1. **Understand Navigation Within Enclosed Spaces:**
