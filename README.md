@@ -547,6 +547,8 @@ By the end of this module, students will have developed skills in nesting loops,
 #### Freeform Maze
 Students apply their programming skills to navigate custom-made mazes with irregular shapes and obstacles. This module enhances adaptability, problem-solving, and creativity using loops, variables, and advanced decision-making.
 
+Tape is used to mark a maze on a board and students need to program the robot to navigate through it.
+
 ### BEG-EXIT 
 #### EXIT: Crane Sort
 An exit module where students demonstrate their understanding of crane sorting concepts through practical implementation. It tests their ability to apply basic programming concepts to real-world scenarios.
